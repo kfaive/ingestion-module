@@ -5,7 +5,7 @@ import io
 import pytesseract
 
 
-app = FastAPI(title="Worksheet AI MVP ingestion module")
+app = FastAPI(title="Worksheet KFaiveAI-tutor ingestion module")
 
 # --------------------
 # Helper functions
@@ -30,7 +30,7 @@ def classify_subject(text: str):
 
 @app.get("/")
 def root():
-    return {"status": "FastAPI running 🚀"}
+    return {"status": "FastAPI for ingestion running 🚀"}
 
 @app.get("/health")
 def health():
