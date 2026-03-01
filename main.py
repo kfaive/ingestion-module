@@ -5,7 +5,7 @@ import io
 import pytesseract
 
 
-app = FastAPI(title="Worksheet AI MVP")
+app = FastAPI(title="Worksheet AI MVP ingestion module")
 
 # --------------------
 # Helper functions
