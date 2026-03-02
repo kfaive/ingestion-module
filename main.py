@@ -24,6 +24,7 @@ SUBJECTS = [
     "EVS",
     "Science",
     "Social Studies",
+    "Hindi",
     "Language",
     "Computer",
     "General"
