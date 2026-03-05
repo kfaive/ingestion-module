@@ -1,0 +1,48 @@
+{
+  "units": [
+    {
+      "name": "Alphabet",
+      "topics": [
+        {
+          "name": "Letter Introduction",
+          "concepts": ["Letter Bb", "Letters Jj and Zz"]
+        },
+        {
+          "name": "Letter Recap",
+          "concepts": ["Letters Gg", "Letters Oo", "Letters Uu", "Letters Ll", "Letters Ff"]
+        }
+      ]
+    },
+    {
+      "name": "Writing Practice",
+      "topics": [
+        {
+          "name": "Tracing Letters",
+          "concepts": ["Lowercase a", "Lowercase c", "Lowercase o", "Lowercase i", "Lowercase j", "Lowercase k", "Lowercase l"]
+        }
+      ]
+    },
+    {
+      "name": "Phonics",
+      "topics": [
+        {
+          "name": "Sound Identification",
+          "concepts": ["Identifying sounds in words", "Central sound words a", "Central sound words e"]
+        },
+        {
+          "name": "Word Families",
+          "concepts": ["op family", "od family", "og family", "ob family"]
+        }
+      ]
+    },
+    {
+      "name": "Sight Words",
+      "topics": [
+        {
+          "name": "Basic Sight Words",
+          "concepts": ["I", "a", "my", "to", "like"]
+        }
+      ]
+    }
+  ]
+}

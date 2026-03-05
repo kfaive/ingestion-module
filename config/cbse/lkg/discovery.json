@@ -1,0 +1,35 @@
+{
+  "units": [
+    {
+      "name": "Animals",
+      "topics": [
+        {
+          "name": "Pet Animals",
+          "concepts": ["Introduction to pet animals"]
+        },
+        {
+          "name": "Farm Animals",
+          "concepts": ["Animal homes", "Young ones", "Things animals give us"]
+        }
+      ]
+    },
+    {
+      "name": "Colours",
+      "topics": [
+        {
+          "name": "Colours Around Us",
+          "concepts": ["Introduction to colours", "Objects related to colours", "Colour activities"]
+        }
+      ]
+    },
+    {
+      "name": "Festivals",
+      "topics": [
+        {
+          "name": "Festivals and Celebrations",
+          "concepts": ["Bal Ganesh"]
+        }
+      ]
+    }
+  ]
+}
