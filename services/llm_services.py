@@ -1,21 +1,13 @@
-
-from fastapi import FastAPI, File, UploadFile
 import base64
 import json
 import os
-from dotenv import load_dotenv
 import pytesseract
 from PIL import Image
 import io
 from groq import Groq
-from PyPDF2 import PdfReader
-
-load_dotenv()
-
-app = FastAPI(title="Worksheet KFaiveAI-tutor ingestion module")
 
 # --------------------
-# Setup AI Client (Secure)
+# Setup AI Client
 # --------------------
 groq_client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
@@ -28,21 +20,19 @@ SUBJECTS = [
     "EVS",
     "Science",
     "Social Studies",
-    "Hindi",
     "Language",
     "Computer",
     "General"
 ]
 
 # --------------------
-# Helper: Clean & Format Text
+# Clean & Format Text
 # --------------------
 def format_text(text: str) -> str:
-    # Remove markdown formatting symbols
+
     text = text.replace("**", "")
     text = text.replace("*", "")
 
-    # Remove extra spaces and blank lines
     lines = [line.strip() for line in text.split("\n") if line.strip()]
     formatted = "\n".join(lines)
 
@@ -50,15 +40,18 @@ def format_text(text: str) -> str:
 
 
 # --------------------
-# Helper: Generate Preview (first few lines)
+# Generate Preview
 # --------------------
 def generate_preview(text: str, max_lines: int = 6) -> str:
+
     lines = text.split("\n")
     preview_lines = lines[:max_lines]
+
     return "\n".join(preview_lines)
 
+
 # --------------------
-# Analyze Image => Groq
+# Analyze Image using Groq
 # --------------------
 def analyze_image(image_bytes: bytes) -> dict:
 
@@ -88,8 +81,8 @@ def analyze_image(image_bytes: bytes) -> dict:
         ],
         temperature=0,
     )
-    extracted_text = vision_response.choices[0].message.content.strip()
 
+    extracted_text = vision_response.choices[0].message.content.strip()
 
     classify_response = groq_client.chat.completions.create(
         model="llama-3.3-70b-versatile",
@@ -99,7 +92,7 @@ def analyze_image(image_bytes: bytes) -> dict:
                 "content": (
                     "You are a primary school academic classifier.\n"
                     "Classify the given worksheet text into EXACTLY ONE subject from this list:\n"
-                    "Math, English, EVS, Science, Social Studies, Hindi, Language, Computer, General.\n\n"
+                    "Math, English, EVS, Science, Social Studies, Language, Computer, General.\n\n"
                     "Rules:\n"
                     "- Return ONLY valid JSON.\n"
                     "- No explanation.\n"
@@ -108,7 +101,7 @@ def analyze_image(image_bytes: bytes) -> dict:
                     "{\"subject\": \"Math\"}"
                 ),
             },
-            {"role": "user", "content": extracted_text },
+            {"role": "user", "content": extracted_text},
         ],
         temperature=0,
         response_format={"type": "json_object"},
@@ -117,75 +110,10 @@ def analyze_image(image_bytes: bytes) -> dict:
     subject_json = json.loads(classify_response.choices[0].message.content)
     predicted_subject = subject_json.get("subject", "General")
 
-
     if predicted_subject not in SUBJECTS:
         predicted_subject = "General"
 
     return {
         "subject": predicted_subject,
         "text_content": extracted_text
-    }
-
-
-# --------------------
-# API Routes
-# --------------------
-@app.get("/")
-def root():
-    return {"status": "FastAPI for ingestion running 🚀"}
-
-
-@app.get("/health")
-def health():
-    return {"health": "ok"}
-
-
-@app.post("/upload")
-async def upload_file(file: UploadFile = File(...)):
-    # 1. Read uploaded file
-    contents = await file.read()
-    text_content = ""
-
-    try:
-        # ----------------------------
-        # IMAGE
-        # ----------------------------
-        if file.content_type.startswith("image/"):
-            result = analyze_image(contents)
-            text_content = result["text_content"]
-            subject = result["subject"]
-
-        # ----------------------------
-        # PDF
-        # ----------------------------
-        elif file.content_type == "application/pdf":
-            from PyPDF2 import PdfReader
-            pdf_reader = PdfReader(io.BytesIO(contents))
-            for page in pdf_reader.pages:
-                text_content += page.extract_text() or ""
-            subject = "General"
-
-        # ----------------------------
-        # TEXT FILE
-        # ----------------------------
-        elif file.content_type == "text/plain":
-            text_content = contents.decode("utf-8")
-            subject = "General"
-
-        else:
-            return {
-                "error": f"Unsupported file type: {file.content_type}"
-            }
-
-    except Exception as e:
-        return {"error": f"Failed to process file: {str(e)}"}
-
-    formatted_text = format_text(text_content)
-    preview_text = generate_preview(formatted_text)
-
-    return {
-        "file": file.filename,
-        "subject": subject,
-        "text_preview": preview_text,
-        "formatted_text": formatted_text
     }
