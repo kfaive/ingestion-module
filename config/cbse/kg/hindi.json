@@ -1,0 +1,81 @@
+{
+  "board": "CBSE",
+  "grade": "KG / LKG / UKG",
+  "subject": "Hindi (II Language)",
+  "academic_year": "2023-24",
+  "reference": "Generic CBSE KG Framework",
+  "textbooks": [
+    "School-specific KG Hindi workbook"
+  ],
+  "topics": [
+    {
+      "id": "KG-HIN-1",
+      "name": "Hindi Vowels (Swar) – अ to औ",
+      "month_coverage": "April-June",
+      "triggers": [
+        "hindi swar",
+        "hindi vowels",
+        "a aa i ee",
+        "letter a to ee",
+        "introduction to letter a",
+        "a se anar",
+        "अ आ इ ई"
+      ],
+      "learning_objectives": [
+        "Recognize Hindi vowels: अ आ इ ई उ ऊ ए ओ औ",
+        "Associate each vowel with a word",
+        "Trace and write Hindi vowels"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "trace the Hindi letter",
+        "match letter to picture",
+        "circle the letter"
+      ]
+    },
+    {
+      "id": "KG-HIN-2",
+      "name": "Hindi Colours & Vocabulary",
+      "month_coverage": "July-August",
+      "triggers": [
+        "colour yellow peela",
+        "colour black kala",
+        "colour red lal",
+        "colour blue neela",
+        "hindi colour words",
+        "rang"
+      ],
+      "learning_objectives": [
+        "Say and write colour names in Hindi",
+        "Match Hindi colour word to correct colour"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "colour and write Hindi word",
+        "match colour to Hindi name"
+      ]
+    },
+    {
+      "id": "KG-HIN-3",
+      "name": "Hindi Fruits Vocabulary (Phal / फल)",
+      "month_coverage": "September",
+      "triggers": [
+        "fruits phal",
+        "aam mango seb apple",
+        "angoor grapes",
+        "kela banana",
+        "hindi fruits",
+        "phal ke naam"
+      ],
+      "learning_objectives": [
+        "Name common fruits in Hindi (aam, seb, kela, angoor)",
+        "Match Hindi fruit name to picture"
+      ],
+      "bloom_level": "Remember",
+      "worksheet_types": [
+        "match fruit to Hindi name",
+        "write the Hindi name"
+      ]
+    }
+  ]
+}

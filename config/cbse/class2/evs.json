@@ -1,0 +1,246 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 2 / Class 2",
+  "subject": "Environmental Studies (EVS)",
+  "academic_year": "2023-24",
+  "reference": "DPS Vasant Kunj Class 2 EVS Syllabus 2023-24",
+  "textbooks": [
+    "Environmental Studies textbook (NCERT/School approved)"
+  ],
+  "topics": [
+    {
+      "id": "C2-EVS-1",
+      "name": "All About Me / My Body",
+      "month_coverage": "April-May",
+      "triggers": [
+        "all about me",
+        "my body",
+        "body parts",
+        "looking after my body",
+        "five senses",
+        "personal hygiene"
+      ],
+      "learning_objectives": [
+        "Name major body parts and their functions",
+        "Identify sense organs",
+        "Practice good personal hygiene"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "label the body",
+        "match sense to organ",
+        "good hygiene habits"
+      ]
+    },
+    {
+      "id": "C2-EVS-2",
+      "name": "My Family",
+      "month_coverage": "July",
+      "triggers": [
+        "my family",
+        "meet my family",
+        "family members",
+        "mother father brother sister grandparents",
+        "nuclear joint family"
+      ],
+      "learning_objectives": [
+        "Name and describe family members",
+        "Understand roles of family members",
+        "Draw a simple family tree"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "draw my family tree",
+        "label family members",
+        "who does what?"
+      ]
+    },
+    {
+      "id": "C2-EVS-3",
+      "name": "My House",
+      "month_coverage": "July-August",
+      "triggers": [
+        "my house",
+        "types of houses",
+        "rooms in a house",
+        "pucca kuccha house",
+        "shelter"
+      ],
+      "learning_objectives": [
+        "Name types of houses",
+        "Identify rooms and their uses",
+        "Understand why we need shelter"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "name the room",
+        "types of houses",
+        "draw your house"
+      ]
+    },
+    {
+      "id": "C2-EVS-4",
+      "name": "Food and Water",
+      "month_coverage": "September-October",
+      "triggers": [
+        "food and water",
+        "food from plants animals",
+        "healthy food",
+        "sources of water",
+        "save water",
+        "water conservation"
+      ],
+      "learning_objectives": [
+        "Classify food as from plants or animals",
+        "Identify healthy and junk food",
+        "Name sources of water and their uses"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "plant or animal food?",
+        "sources of water",
+        "healthy or unhealthy?"
+      ]
+    },
+    {
+      "id": "C2-EVS-5",
+      "name": "Clothes For Us",
+      "month_coverage": "October",
+      "triggers": [
+        "clothes for us",
+        "types of clothes",
+        "seasonal clothes",
+        "summer winter clothes",
+        "cotton wool silk"
+      ],
+      "learning_objectives": [
+        "Name different types of clothing",
+        "Match clothes to seasons",
+        "Identify materials clothes are made from"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "match clothes to season",
+        "summer or winter?",
+        "circle the correct material"
+      ]
+    },
+    {
+      "id": "C2-EVS-6",
+      "name": "My School & My Neighbourhood",
+      "month_coverage": "November",
+      "triggers": [
+        "my school",
+        "my neighbourhood",
+        "community helpers",
+        "post office market hospital",
+        "people who help us"
+      ],
+      "learning_objectives": [
+        "Identify community helpers and their roles",
+        "Describe their school environment",
+        "Name places in their neighbourhood"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "match helper to job",
+        "draw your neighbourhood",
+        "who helps us?"
+      ]
+    },
+    {
+      "id": "C2-EVS-7",
+      "name": "Animals in My World",
+      "month_coverage": "December-January",
+      "triggers": [
+        "animals in my world",
+        "domestic wild water birds",
+        "animal homes",
+        "young ones",
+        "what animals give us",
+        "food of animals"
+      ],
+      "learning_objectives": [
+        "Classify animals by habitat and type",
+        "Match animals to their young ones and homes",
+        "Identify useful products from animals"
+      ],
+      "bloom_level": "Remember, Understand, Apply",
+      "worksheet_types": [
+        "sort the animals",
+        "match animal to home",
+        "animal young ones"
+      ]
+    },
+    {
+      "id": "C2-EVS-8",
+      "name": "Plants Around Us",
+      "month_coverage": "January",
+      "triggers": [
+        "plants around us",
+        "parts of plant",
+        "root stem leaf flower fruit seed",
+        "functions of plant parts",
+        "types of plants"
+      ],
+      "learning_objectives": [
+        "Name parts of a plant and their functions",
+        "Identify types of plants (tree, shrub, herb, creeper)",
+        "Recognise food we get from plants"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "label plant parts",
+        "match part to function",
+        "tree shrub or herb?"
+      ]
+    },
+    {
+      "id": "C2-EVS-9",
+      "name": "Travel and Safety",
+      "month_coverage": "February",
+      "triggers": [
+        "travel and safety",
+        "modes of transport",
+        "road safety",
+        "traffic rules",
+        "land water air transport"
+      ],
+      "learning_objectives": [
+        "Name different modes of transport",
+        "Follow basic road safety rules",
+        "Understand importance of safety"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "land water or air transport?",
+        "road safety rules",
+        "match transport to medium"
+      ]
+    },
+    {
+      "id": "C2-EVS-10",
+      "name": "The Earth and The Sky / Weather and Seasons",
+      "month_coverage": "February-March",
+      "triggers": [
+        "earth and sky",
+        "weather and seasons",
+        "summer winter monsoon",
+        "sun moon stars",
+        "weather changes",
+        "my world of colours"
+      ],
+      "learning_objectives": [
+        "Describe different seasons and their characteristics",
+        "Identify objects in the sky",
+        "Observe and record weather"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "match season to picture",
+        "day or night sky?",
+        "weather observation chart"
+      ]
+    }
+  ]
+}

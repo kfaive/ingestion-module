@@ -1,0 +1,111 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 4 / Class 4",
+  "subject": "Hindi",
+  "academic_year": "2023-24",
+  "reference": "NCERT Hindi Class 4 - Rimjhim 4",
+  "textbooks": [
+    "Rimjhim 4 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C4-HIN-1",
+      "name": "Rimjhim 4 – Chapters 1–4 (Term I)",
+      "month_coverage": "April-June",
+      "triggers": [
+        "मन के भोले भाले बादल",
+        "jab mujhe saap ne kata",
+        "rimjhim 4 chapter 1",
+        "rimjhim 4 term 1",
+        "class 4 hindi term 1"
+      ],
+      "learning_objectives": [
+        "Read and understand Hindi prose and poetry at Class 4 level",
+        "Identify संज्ञा (nouns), सर्वनाम (pronouns), क्रिया (verbs) in sentences",
+        "Write answers to comprehension questions in Hindi",
+        "Learn new vocabulary from chapter contexts"
+      ],
+      "bloom_level": "Understand, Apply",
+      "ncert_reference": "Rimjhim 4 – Units 1–4",
+      "worksheet_types": [
+        "पाठ पर आधारित प्रश्न",
+        "शब्द अर्थ मिलान",
+        "रिक्त स्थान भरो",
+        "वाक्य रचना"
+      ]
+    },
+    {
+      "id": "C4-HIN-2",
+      "name": "व्याकरण – Vyakaran (Grammar) Class 4",
+      "month_coverage": "April-February",
+      "triggers": [
+        "hindi grammar class 4",
+        "vyakaran class 4",
+        "sangya sarvanam",
+        "vachan ling class 4",
+        "kriya visheshan",
+        "sandhi samas class 4"
+      ],
+      "learning_objectives": [
+        "Identify and use संज्ञा, सर्वनाम, विशेषण, क्रिया, क्रिया-विशेषण",
+        "Apply वचन (singular/plural) and लिंग (gender) rules",
+        "Understand काल (tense): भूतकाल, वर्तमान काल, भविष्यकाल",
+        "Use विराम चिन्ह (punctuation) correctly"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "शब्द भेद पहचानो",
+        "वाक्य में लिंग-वचन बदलो",
+        "काल बदलो",
+        "विराम चिन्ह लगाओ"
+      ]
+    },
+    {
+      "id": "C4-HIN-3",
+      "name": "Rimjhim 4 – Chapters 5–9 (Term II)",
+      "month_coverage": "July-October",
+      "triggers": [
+        "rimjhim 4 term 2",
+        "class 4 hindi term 2",
+        "rimjhim 4 chapter 5"
+      ],
+      "learning_objectives": [
+        "Read and understand chapters 5–9 of Rimjhim 4",
+        "Write summaries in simple Hindi",
+        "Identify figures of speech: उपमा, रूपक in poetry"
+      ],
+      "bloom_level": "Understand, Analyze",
+      "ncert_reference": "Rimjhim 4 – Units 5–9",
+      "worksheet_types": [
+        "पाठ का सारांश लिखो",
+        "अलंकार पहचानो",
+        "प्रश्न-उत्तर"
+      ]
+    },
+    {
+      "id": "C4-HIN-4",
+      "name": "Rimjhim 4 – Chapters 10–14 (Term III) + Lekhan",
+      "month_coverage": "November-February",
+      "triggers": [
+        "rimjhim 4 term 3",
+        "anuchhed lekhan class 4",
+        "patra lekhan class 4",
+        "hindi composition class 4"
+      ],
+      "learning_objectives": [
+        "Read chapters 10–14 of Rimjhim 4",
+        "Write अनुच्छेद (paragraph) on given topics",
+        "Write अनौपचारिक पत्र (informal letter)",
+        "Write 10 sentences on familiar topics"
+      ],
+      "bloom_level": "Apply, Create",
+      "ncert_reference": "Rimjhim 4 – Units 10–14",
+      "worksheet_types": [
+        "अनुच्छेद लेखन",
+        "पत्र लेखन",
+        "चित्र वर्णन",
+        "रचनात्मक लेखन"
+      ]
+    }
+  ]
+}

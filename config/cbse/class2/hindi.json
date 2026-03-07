@@ -1,0 +1,130 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 2 / Class 2",
+  "subject": "Hindi",
+  "academic_year": "2023-24",
+  "reference": "CBSE Class 2 Hindi Syllabus 2023-24 (Rimjhim 2)",
+  "textbooks": [
+    "Rimjhim Book 2 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C2-HIN-1",
+      "name": "Hindi Matra – इ and ई",
+      "month_coverage": "July",
+      "triggers": [
+        "i matra class 2",
+        "ee matra class 2",
+        "chhoti i badi ee class 2",
+        "matra words class 2"
+      ],
+      "learning_objectives": [
+        "Read and write words with छोटी इ and बड़ी ई matra",
+        "Form sentences using matra words"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "fill in matra",
+        "read and write matra words",
+        "make sentences"
+      ]
+    },
+    {
+      "id": "C2-HIN-2",
+      "name": "Hindi Matra – उ, ऊ, ए, ऐ, ओ, औ",
+      "month_coverage": "August-February",
+      "triggers": [
+        "u oo matra",
+        "e ai matra",
+        "o au matra",
+        "matra revision class 2"
+      ],
+      "learning_objectives": [
+        "Read and write words with all matras",
+        "Identify correct matra in words",
+        "Build vocabulary through matra words"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "matra identification",
+        "fill in the missing matra",
+        "matra word lists"
+      ]
+    },
+    {
+      "id": "C2-HIN-3",
+      "name": "NCERT Prose & Poems – Rimjhim 2",
+      "month_coverage": "April-March",
+      "triggers": [
+        "unt chala",
+        "bhalu ne kheli football",
+        "myaun myaun",
+        "adhik balwaan kaun",
+        "dost ki madad",
+        "bahut hua",
+        "meri kitab",
+        "titali aur kali",
+        "bulbul",
+        "meethi sarangi",
+        "natakhat chuha",
+        "ekkhi dokki"
+      ],
+      "learning_objectives": [
+        "Read and understand NCERT Hindi stories and poems",
+        "Answer simple comprehension questions",
+        "Build Hindi vocabulary"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "comprehension questions",
+        "fill in the blanks from story",
+        "match character to story"
+      ]
+    },
+    {
+      "id": "C2-HIN-4",
+      "name": "Shabda Bhandar (Vocabulary)",
+      "month_coverage": "Throughout year",
+      "triggers": [
+        "shabda bhandar",
+        "hindi vocabulary",
+        "word bank",
+        "hindi words",
+        "new words"
+      ],
+      "learning_objectives": [
+        "Learn and use new Hindi words",
+        "Match Hindi words to pictures",
+        "Build vocabulary in context of lessons"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "match word to picture",
+        "fill in the Hindi word",
+        "use in a sentence"
+      ]
+    },
+    {
+      "id": "C2-HIN-5",
+      "name": "Vakya Rachna (Sentence Formation)",
+      "month_coverage": "August-March",
+      "triggers": [
+        "vakya rachna",
+        "sentence writing hindi",
+        "vakya pathan lekhna",
+        "hindi sentence formation"
+      ],
+      "learning_objectives": [
+        "Read simple Hindi sentences",
+        "Write simple Hindi sentences",
+        "Arrange words to form correct sentences"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "arrange the Hindi words",
+        "copy and write the sentence",
+        "fill in the blank sentence"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 5 / Class 5",
+  "subject": "Science / EVS",
+  "academic_year": "2023-24",
+  "reference": "NCERT EVS Class 5 – Looking Around 5",
+  "textbooks": [
+    "Looking Around 5 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C5-EVS-1",
+      "name": "Solar System",
+      "month_coverage": "April-May",
+      "triggers": [
+        "solar system class 5",
+        "planets class 5",
+        "earth rotation revolution",
+        "moon phases class 5",
+        "sun stars class 5"
+      ],
+      "learning_objectives": [
+        "Name the eight planets in order from the Sun",
+        "Explain the difference between rotation and revolution",
+        "Describe phases of the moon",
+        "Identify the positions and features of inner and outer planets"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "label the solar system",
+        "rotation vs revolution",
+        "planet facts table",
+        "order the planets"
+      ]
+    },
+    {
+      "id": "C5-EVS-2",
+      "name": "Human Body Systems",
+      "month_coverage": "May-July",
+      "triggers": [
+        "digestive system class 5",
+        "respiratory system class 5",
+        "circulatory system class 5",
+        "nervous system class 5",
+        "skeletal muscular system class 5"
+      ],
+      "learning_objectives": [
+        "Describe the digestive system and its organs",
+        "Explain the respiratory system and gas exchange",
+        "Describe the circulatory system and the heart's function",
+        "Identify the major bones and muscles"
+      ],
+      "bloom_level": "Understand, Analyze",
+      "worksheet_types": [
+        "label the system diagram",
+        "function matching",
+        "fill in the blanks",
+        "true or false body systems"
+      ]
+    },
+    {
+      "id": "C5-EVS-3",
+      "name": "Rocks and Soil",
+      "month_coverage": "July-August",
+      "triggers": [
+        "rocks class 5",
+        "types of rocks",
+        "igneous sedimentary metamorphic",
+        "soil class 5",
+        "types of soil",
+        "layers of soil"
+      ],
+      "learning_objectives": [
+        "Classify rocks as igneous, sedimentary and metamorphic",
+        "Describe the formation of each rock type",
+        "Identify layers of soil: topsoil, subsoil, bedrock",
+        "Explain soil erosion and conservation"
+      ],
+      "bloom_level": "Remember, Understand, Apply",
+      "worksheet_types": [
+        "classify the rock",
+        "label soil layers",
+        "rock formation flowchart",
+        "soil conservation methods"
+      ]
+    },
+    {
+      "id": "C5-EVS-4",
+      "name": "Natural Disasters",
+      "month_coverage": "August-September",
+      "triggers": [
+        "natural disasters class 5",
+        "earthquake class 5",
+        "floods class 5",
+        "cyclone class 5",
+        "tsunami",
+        "disaster management class 5"
+      ],
+      "learning_objectives": [
+        "Name and describe major natural disasters",
+        "Explain causes and effects of earthquakes, floods and cyclones",
+        "Describe disaster management and safety measures",
+        "Locate disaster-prone areas on a map of India"
+      ],
+      "bloom_level": "Understand, Evaluate",
+      "worksheet_types": [
+        "cause and effect chart",
+        "disaster safety measures",
+        "true or false natural disasters",
+        "disaster mapping activity"
+      ]
+    },
+    {
+      "id": "C5-EVS-5",
+      "name": "India – History and Heritage",
+      "month_coverage": "September-November",
+      "triggers": [
+        "ancient india class 5",
+        "freedom fighters class 5",
+        "independence class 5",
+        "constitution class 5",
+        "our heritage class 5"
+      ],
+      "learning_objectives": [
+        "Describe major periods of Indian history (ancient, medieval, modern)",
+        "Name key freedom fighters and their contributions",
+        "Explain the importance of the Indian Constitution",
+        "Identify UNESCO World Heritage Sites in India"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "timeline of Indian history",
+        "freedom fighter profiles",
+        "match heritage site to state",
+        "fill in the blanks on Constitution"
+      ]
+    },
+    {
+      "id": "C5-EVS-6",
+      "name": "Environment – Conservation and Biodiversity",
+      "month_coverage": "November-February",
+      "triggers": [
+        "biodiversity class 5",
+        "conservation class 5",
+        "endangered species class 5",
+        "deforestation class 5",
+        "wildlife conservation"
+      ],
+      "learning_objectives": [
+        "Define biodiversity and explain its importance",
+        "Name endangered species in India",
+        "Explain deforestation and its consequences",
+        "Describe methods of wildlife and environmental conservation"
+      ],
+      "bloom_level": "Understand, Evaluate",
+      "worksheet_types": [
+        "biodiversity concept map",
+        "endangered species matching",
+        "cause and effect deforestation",
+        "conservation methods list"
+      ]
+    }
+  ]
+}

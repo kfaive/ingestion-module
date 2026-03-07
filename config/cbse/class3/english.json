@@ -1,0 +1,256 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 3 / Class 3",
+  "subject": "English Language Arts",
+  "academic_year": "2023-24",
+  "reference": "CBSE Class 3 English Syllabus 2023-24 (Marigold 3)",
+  "textbooks": [
+    "Marigold Book 3 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C3-ENG-1",
+      "name": "Tenses (Present, Past, Future)",
+      "month_coverage": "April-May",
+      "triggers": [
+        "tense",
+        "past tense",
+        "present tense",
+        "future tense",
+        "was were",
+        "will shall",
+        "simple past class 3"
+      ],
+      "learning_objectives": [
+        "Use present, past and future tense correctly",
+        "Identify tense in sentences",
+        "Change sentences from one tense to another"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "change the tense",
+        "fill in correct tense",
+        "rewrite in past tense"
+      ]
+    },
+    {
+      "id": "C3-ENG-2",
+      "name": "Punctuation",
+      "month_coverage": "May-June",
+      "triggers": [
+        "punctuation class 3",
+        "full stop",
+        "comma",
+        "question mark",
+        "exclamation mark",
+        "apostrophe",
+        "inverted commas"
+      ],
+      "learning_objectives": [
+        "Use punctuation marks correctly",
+        "Identify punctuation errors and correct them"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "add the punctuation",
+        "correct the punctuation",
+        "punctuation matching"
+      ]
+    },
+    {
+      "id": "C3-ENG-3",
+      "name": "Nouns – Common, Proper, Collective",
+      "month_coverage": "April",
+      "triggers": [
+        "common nouns proper nouns",
+        "collective nouns",
+        "a herd of",
+        "a flock of",
+        "types of nouns class 3"
+      ],
+      "learning_objectives": [
+        "Identify common, proper and collective nouns",
+        "Use capital letters for proper nouns",
+        "Learn collective nouns (a flock of birds, a herd of cows)"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "sort the nouns",
+        "write collective nouns",
+        "circle proper nouns"
+      ]
+    },
+    {
+      "id": "C3-ENG-4",
+      "name": "Pronouns",
+      "month_coverage": "May",
+      "triggers": [
+        "pronouns class 3",
+        "personal pronouns",
+        "I you he she they",
+        "possessive pronouns my your his her"
+      ],
+      "learning_objectives": [
+        "Use personal and possessive pronouns correctly",
+        "Replace nouns with appropriate pronouns"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "replace with pronoun",
+        "fill in pronoun",
+        "possessive pronouns"
+      ]
+    },
+    {
+      "id": "C3-ENG-5",
+      "name": "Adjectives & Degrees of Comparison",
+      "month_coverage": "June",
+      "triggers": [
+        "adjectives class 3",
+        "degrees of comparison",
+        "positive comparative superlative",
+        "big bigger biggest",
+        "describing words class 3"
+      ],
+      "learning_objectives": [
+        "Identify adjectives in sentences",
+        "Form comparative and superlative degrees",
+        "Use adjectives in descriptions"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "degrees of comparison table",
+        "fill in the adjective",
+        "positive comparative superlative"
+      ]
+    },
+    {
+      "id": "C3-ENG-6",
+      "name": "Verbs – Tense Forms",
+      "month_coverage": "July-August",
+      "triggers": [
+        "verbs class 3",
+        "present tense verbs",
+        "past tense verbs",
+        "verb forms",
+        "is/am/are + verb",
+        "was/were + verb"
+      ],
+      "learning_objectives": [
+        "Identify and use verbs in different tense forms",
+        "Distinguish between regular and irregular verbs",
+        "Use helping verbs correctly"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "change the verb form",
+        "identify helping verb",
+        "fill in the correct verb form"
+      ]
+    },
+    {
+      "id": "C3-ENG-7",
+      "name": "Prepositions",
+      "month_coverage": "August",
+      "triggers": [
+        "prepositions class 3",
+        "in on under over",
+        "behind in front of",
+        "between beside",
+        "place prepositions"
+      ],
+      "learning_objectives": [
+        "Use prepositions of place and direction",
+        "Identify prepositions in sentences",
+        "Fill in correct prepositions"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "fill in preposition",
+        "circle the preposition",
+        "use preposition in a sentence"
+      ]
+    },
+    {
+      "id": "C3-ENG-8",
+      "name": "Reading Comprehension",
+      "month_coverage": "Throughout year",
+      "triggers": [
+        "comprehension class 3",
+        "read and answer",
+        "passage class 3",
+        "main idea",
+        "inference",
+        "answer questions"
+      ],
+      "learning_objectives": [
+        "Read passages and answer comprehension questions",
+        "Identify main idea and supporting details",
+        "Infer meaning from context"
+      ],
+      "bloom_level": "Understand, Analyze",
+      "worksheet_types": [
+        "read and answer",
+        "find main idea",
+        "true or false",
+        "inference questions"
+      ]
+    },
+    {
+      "id": "C3-ENG-9",
+      "name": "NCERT Prose & Poems – Marigold 3",
+      "month_coverage": "April-March",
+      "triggers": [
+        "good morning marigold 3",
+        "magic garden",
+        "bird talk",
+        "nina and the baby sparrows",
+        "little by little",
+        "enormous turnip",
+        "sea song",
+        "little fish story",
+        "balloon man",
+        "trains",
+        "puppy and i",
+        "whats in the mailbox",
+        "how creatures move",
+        "ship of the desert"
+      ],
+      "learning_objectives": [
+        "Read and understand NCERT prose and poems",
+        "Answer comprehension questions",
+        "Appreciate literary themes"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "comprehension questions",
+        "fill in the blanks",
+        "character analysis"
+      ]
+    },
+    {
+      "id": "C3-ENG-10",
+      "name": "Composition & Creative Writing",
+      "month_coverage": "Throughout year",
+      "triggers": [
+        "composition class 3",
+        "paragraph writing",
+        "picture composition",
+        "creative writing",
+        "write a story",
+        "write a letter"
+      ],
+      "learning_objectives": [
+        "Write a paragraph on a given topic",
+        "Compose a short story or description",
+        "Write a simple informal letter"
+      ],
+      "bloom_level": "Apply, Create",
+      "worksheet_types": [
+        "picture composition",
+        "paragraph writing",
+        "guided story writing"
+      ]
+    }
+  ]
+}

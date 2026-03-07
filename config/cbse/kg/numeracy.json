@@ -1,0 +1,202 @@
+{
+  "board": "CBSE",
+  "grade": "KG / LKG / UKG",
+  "subject": "Numeracy / Maths",
+  "academic_year": "2023-24",
+  "reference": "Generic CBSE KG Framework",
+  "textbooks": [
+    "School-specific KG Maths workbook"
+  ],
+  "topics": [
+    {
+      "id": "KG-NUM-1",
+      "name": "Numbers 1–10: Recognition & Writing",
+      "month_coverage": "April-May",
+      "triggers": [
+        "numbers 1 to 10",
+        "numbers 0 to 10",
+        "counting 1 to 10",
+        "quantification",
+        "formation of number",
+        "writing numbers"
+      ],
+      "learning_objectives": [
+        "Recognize, write and say numbers 1 to 10",
+        "Count objects up to 10",
+        "Match numeral to quantity"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "trace the number",
+        "count and write",
+        "match number to objects",
+        "colour right number of objects"
+      ]
+    },
+    {
+      "id": "KG-NUM-2",
+      "name": "Missing Numbers 1–10",
+      "month_coverage": "May",
+      "triggers": [
+        "missing numbers",
+        "fill in the missing",
+        "number sequence",
+        "what comes next",
+        "number order 1-10"
+      ],
+      "learning_objectives": [
+        "Identify missing numbers in a sequence 1–10",
+        "Understand number order"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "fill in missing number",
+        "complete number train",
+        "what number is missing?"
+      ]
+    },
+    {
+      "id": "KG-NUM-3",
+      "name": "Number Series 1–20",
+      "month_coverage": "June-July",
+      "triggers": [
+        "number series 1 to 20",
+        "numbers 1 to 20",
+        "between numbers",
+        "after numbers",
+        "before numbers",
+        "counting to 20",
+        "recap between and after"
+      ],
+      "learning_objectives": [
+        "Count and write numbers 1 to 20",
+        "Identify 'before', 'after' and 'between' numbers up to 20"
+      ],
+      "bloom_level": "Remember, Understand, Apply",
+      "worksheet_types": [
+        "fill missing number",
+        "write before/after/between",
+        "number sequence 1-20"
+      ]
+    },
+    {
+      "id": "KG-NUM-4",
+      "name": "Comparison of Numbers (>, <, =)",
+      "month_coverage": "August",
+      "triggers": [
+        "comparison of numbers",
+        "greater than less than",
+        ">, <, =",
+        "tens frame",
+        "compare numbers",
+        "more than fewer than"
+      ],
+      "learning_objectives": [
+        "Compare two numbers using >, < and = symbols",
+        "Use tens frame to visualize number comparison"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "compare and write > < =",
+        "colour the bigger number",
+        "tens frame comparison"
+      ]
+    },
+    {
+      "id": "KG-NUM-5",
+      "name": "Backward Counting 20–0",
+      "month_coverage": "August-September",
+      "triggers": [
+        "backward counting",
+        "count backward",
+        "20 to 0",
+        "20 to 1",
+        "reverse counting",
+        "countdown"
+      ],
+      "learning_objectives": [
+        "Count backward from 20 to 0",
+        "Write numbers in reverse order"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "fill backward number train",
+        "count down from 20",
+        "write backward numbers"
+      ]
+    },
+    {
+      "id": "KG-NUM-6",
+      "name": "Number Names (one to ten)",
+      "month_coverage": "September-October",
+      "triggers": [
+        "number names",
+        "number name one",
+        "one two three",
+        "four five six",
+        "seven eight nine ten",
+        "write the number name"
+      ],
+      "learning_objectives": [
+        "Read and write number names one to ten",
+        "Match numeral to number name"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "match number to name",
+        "write the number name",
+        "circle correct number name"
+      ]
+    },
+    {
+      "id": "KG-NUM-7",
+      "name": "2D Shapes",
+      "month_coverage": "October-November",
+      "triggers": [
+        "shapes",
+        "circle",
+        "square",
+        "triangle",
+        "rectangle",
+        "oval",
+        "pentagon",
+        "2d shapes",
+        "introduction to shape"
+      ],
+      "learning_objectives": [
+        "Identify and name 2D shapes: circle, square, triangle, rectangle, oval, pentagon",
+        "Describe shapes by sides and corners"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "name the shape",
+        "colour shapes",
+        "count sides and corners",
+        "draw the shape"
+      ]
+    },
+    {
+      "id": "KG-NUM-8",
+      "name": "Patterns",
+      "month_coverage": "November-December",
+      "triggers": [
+        "pattern",
+        "ab pattern",
+        "repeating pattern",
+        "colour pattern",
+        "shape pattern",
+        "continuing the pattern"
+      ],
+      "learning_objectives": [
+        "Identify and continue AB and ABC patterns",
+        "Create simple colour and shape patterns"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "complete the pattern",
+        "draw what comes next",
+        "colour the pattern"
+      ]
+    }
+  ]
+}

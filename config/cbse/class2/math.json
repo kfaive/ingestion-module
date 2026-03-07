@@ -1,0 +1,281 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 2 / Class 2",
+  "subject": "Mathematics",
+  "academic_year": "2023-24",
+  "reference": "CBSE Class 2 Maths Syllabus 2023-24 (NCERT Joyful Mathematics)",
+  "textbooks": [
+    "NCERT Joyful Mathematics 2",
+    "Junior Maths - 2 (Bharati Bhawan)"
+  ],
+  "topics": [
+    {
+      "id": "C2-MATH-1",
+      "name": "3-D and 2-D Shapes",
+      "month_coverage": "April-May",
+      "triggers": [
+        "shapes 3d 2d",
+        "cuboid cylinder cone sphere",
+        "rectangle square triangle circle",
+        "straight curved lines",
+        "horizontal vertical slant lines",
+        "identifies objects by shadows"
+      ],
+      "learning_objectives": [
+        "Identify basic 3-D shapes: cuboid, cylinder, cone, sphere",
+        "Identify 2-D shapes: rectangle, square, triangle, circle",
+        "Distinguish between straight and curved lines"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "name the 3D shape",
+        "trace 2D outlines of 3D objects",
+        "straight or curved?"
+      ]
+    },
+    {
+      "id": "C2-MATH-2",
+      "name": "Numbers up to 99",
+      "month_coverage": "April-August",
+      "triggers": [
+        "numbers upto 99",
+        "reads and writes numerals up to ninety nine",
+        "place value tens ones",
+        "ascending descending order",
+        "two digit numbers",
+        "greatest smallest two digit"
+      ],
+      "learning_objectives": [
+        "Read and write numbers up to 99",
+        "Expand numbers with respect to place values",
+        "Arrange numbers in ascending and descending order"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "place value chart",
+        "expanded form",
+        "greatest and smallest",
+        "ascending descending order"
+      ]
+    },
+    {
+      "id": "C2-MATH-3",
+      "name": "Addition (with Regrouping)",
+      "month_coverage": "June-September",
+      "triggers": [
+        "addition with carry over",
+        "addition with regrouping",
+        "column addition",
+        "2-digit addition",
+        "adds two digit numbers",
+        "commutative property of addition"
+      ],
+      "learning_objectives": [
+        "Add 2-digit numbers with and without carrying",
+        "Observe commutative property of addition through patterns",
+        "Solve addition word problems"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "column addition",
+        "addition word problems",
+        "add with carrying",
+        "commutative property"
+      ]
+    },
+    {
+      "id": "C2-MATH-4",
+      "name": "Subtraction (with Regrouping)",
+      "month_coverage": "August-November",
+      "triggers": [
+        "subtraction with borrowing",
+        "subtraction with regrouping",
+        "2-digit subtraction",
+        "borrowing subtraction",
+        "subtract zero"
+      ],
+      "learning_objectives": [
+        "Subtract 2-digit numbers with and without borrowing",
+        "Subtract zero from a number",
+        "Solve subtraction word problems"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "column subtraction",
+        "subtraction with borrowing",
+        "word problems"
+      ]
+    },
+    {
+      "id": "C2-MATH-5",
+      "name": "Preparation for Multiplication & Division",
+      "month_coverage": "September-October",
+      "triggers": [
+        "repeated addition",
+        "equal sharing",
+        "equal groups",
+        "multiplication introduction",
+        "division introduction",
+        "making equal groups",
+        "skip count",
+        "skip counting in 2s 5s 10s"
+      ],
+      "learning_objectives": [
+        "Understand multiplication as repeated addition",
+        "Understand division as equal sharing",
+        "Skip count by 2s, 5s and 10s"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "repeated addition to multiplication",
+        "equal groups drawing",
+        "skip counting number line"
+      ]
+    },
+    {
+      "id": "C2-MATH-6",
+      "name": "Money",
+      "month_coverage": "December",
+      "triggers": [
+        "money",
+        "currency notes and coins",
+        "amounts of money",
+        "transacts an amount",
+        "adds subtracts money",
+        "rs 50",
+        "rupees paisa"
+      ],
+      "learning_objectives": [
+        "Identify Indian currency notes and coins",
+        "Put together amounts not exceeding Rs 50",
+        "Add and subtract small amounts of money mentally"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "name the coin/note",
+        "how much money?",
+        "add money amounts"
+      ]
+    },
+    {
+      "id": "C2-MATH-7",
+      "name": "Measurement – Length, Weight, Capacity",
+      "month_coverage": "January",
+      "triggers": [
+        "length measurement",
+        "weight measurement",
+        "capacity volume",
+        "compares weight",
+        "non-standard units length",
+        "balance weight",
+        "containers capacity"
+      ],
+      "learning_objectives": [
+        "Measure lengths using non-standard units",
+        "Compare weights using a simple balance",
+        "Order containers by capacity"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "measure with units",
+        "heavier or lighter?",
+        "more or less capacity?"
+      ]
+    },
+    {
+      "id": "C2-MATH-8",
+      "name": "Time & Calendar",
+      "month_coverage": "October-December",
+      "triggers": [
+        "days of the week",
+        "months of the year",
+        "sequence of seasons",
+        "time",
+        "calendar",
+        "events in dates"
+      ],
+      "learning_objectives": [
+        "Name days of the week and months of the year",
+        "Get a feel for sequence of seasons",
+        "Sequence events using dates"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "name the day/month",
+        "order the months",
+        "what day comes after?"
+      ]
+    },
+    {
+      "id": "C2-MATH-9",
+      "name": "Data Handling",
+      "month_coverage": "January-February",
+      "triggers": [
+        "data handling",
+        "collects data",
+        "represents data",
+        "heights of children",
+        "birthdays data",
+        "pictograph",
+        "tally marks"
+      ],
+      "learning_objectives": [
+        "Collect data through measurement",
+        "Represent data followed by discussion",
+        "Draw inferences from data"
+      ],
+      "bloom_level": "Apply, Analyze",
+      "worksheet_types": [
+        "tally chart",
+        "pictograph",
+        "collect and record data"
+      ]
+    },
+    {
+      "id": "C2-MATH-10",
+      "name": "Patterns",
+      "month_coverage": "November-January",
+      "triggers": [
+        "patterns",
+        "sequences of shapes numbers",
+        "splitting a number",
+        "block patterns",
+        "stamping patterns",
+        "thumbprints leaf prints"
+      ],
+      "learning_objectives": [
+        "Observe and extend patterns in shapes and numbers",
+        "Search for patterns in splitting a number",
+        "Create patterns by stamping"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "complete the pattern",
+        "extend the number pattern",
+        "create a stamp pattern"
+      ]
+    },
+    {
+      "id": "C2-MATH-11",
+      "name": "Mental Arithmetic",
+      "month_coverage": "Throughout year",
+      "triggers": [
+        "mental arithmetic",
+        "mental math",
+        "adds subtracts single digit mentally",
+        "multiples of ten mentally",
+        "mental maths"
+      ],
+      "learning_objectives": [
+        "Add and subtract single-digit numbers mentally",
+        "Add and subtract multiples of ten mentally"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "mental math quiz",
+        "flash card addition",
+        "quick subtraction"
+      ]
+    }
+  ]
+}

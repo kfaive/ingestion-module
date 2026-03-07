@@ -1,0 +1,265 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 4 / Class 4",
+  "subject": "Mathematics",
+  "academic_year": "2023-24",
+  "reference": "NCERT Mathematics Class 4 - Magic of Numbers / Math Magic",
+  "textbooks": [
+    "Math Magic 4 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C4-MATH-1",
+      "name": "Large Numbers – Up to Lakhs",
+      "month_coverage": "April-May",
+      "triggers": [
+        "lakhs",
+        "5 digit numbers",
+        "6 digit numbers",
+        "large numbers class 4",
+        "indian number system",
+        "place value lakhs",
+        "ten thousands"
+      ],
+      "learning_objectives": [
+        "Read and write numbers up to 6 digits (lakhs)",
+        "Understand Indian place value system: ones, tens, hundreds, thousands, ten-thousands, lakhs",
+        "Compare and order large numbers",
+        "Write numbers in expanded form up to lakhs"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "place value chart up to lakhs",
+        "write in expanded form",
+        "compare large numbers",
+        "write in words"
+      ]
+    },
+    {
+      "id": "C4-MATH-2",
+      "name": "Addition and Subtraction of Large Numbers",
+      "month_coverage": "May-June",
+      "triggers": [
+        "addition of large numbers",
+        "subtraction of large numbers",
+        "5 digit addition",
+        "6 digit subtraction",
+        "column addition class 4"
+      ],
+      "learning_objectives": [
+        "Add and subtract numbers up to 5-6 digits with regrouping",
+        "Estimate sums and differences",
+        "Solve word problems involving large number operations"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "column addition 5-digit",
+        "subtraction with borrowing",
+        "word problems"
+      ]
+    },
+    {
+      "id": "C4-MATH-3",
+      "name": "Multiplication of Large Numbers",
+      "month_coverage": "June-July",
+      "triggers": [
+        "multiply 3 digit",
+        "multiply 4 digit",
+        "long multiplication class 4",
+        "3-digit by 2-digit",
+        "multiplication of large numbers"
+      ],
+      "learning_objectives": [
+        "Multiply 3-digit numbers by 2-digit numbers using standard algorithm",
+        "Apply multiplication in word problems",
+        "Estimate products"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "long multiplication",
+        "word problems",
+        "estimate the product"
+      ]
+    },
+    {
+      "id": "C4-MATH-4",
+      "name": "Division with Remainder",
+      "month_coverage": "July-August",
+      "triggers": [
+        "division class 4",
+        "long division",
+        "3-digit division",
+        "remainder class 4",
+        "divide 3 digit by 1 digit",
+        "divide 3 digit by 2 digit"
+      ],
+      "learning_objectives": [
+        "Divide 3-digit numbers by 1-digit and 2-digit divisors",
+        "Understand and use remainder in real contexts",
+        "Verify division using multiplication"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "short division",
+        "long division",
+        "division with remainder",
+        "word problems"
+      ]
+    },
+    {
+      "id": "C4-MATH-5",
+      "name": "Fractions – Like and Unlike",
+      "month_coverage": "August-September",
+      "triggers": [
+        "like fractions",
+        "unlike fractions",
+        "equivalent fractions",
+        "comparing fractions",
+        "adding fractions class 4",
+        "fractions class 4"
+      ],
+      "learning_objectives": [
+        "Find equivalent fractions",
+        "Add and subtract like fractions",
+        "Compare unlike fractions using cross-multiplication or LCM",
+        "Represent fractions on a number line"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "equivalent fractions",
+        "add like fractions",
+        "compare fractions",
+        "fractions on number line"
+      ]
+    },
+    {
+      "id": "C4-MATH-6",
+      "name": "Decimals – Introduction",
+      "month_coverage": "September-October",
+      "triggers": [
+        "decimals class 4",
+        "decimal point",
+        "tenths hundredths",
+        "introduction to decimals",
+        "decimal notation"
+      ],
+      "learning_objectives": [
+        "Understand place value of tenths and hundredths",
+        "Read and write decimal numbers",
+        "Convert fractions to decimals and vice versa",
+        "Compare decimal numbers"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "write as decimal",
+        "fraction to decimal",
+        "compare decimals",
+        "decimal place value chart"
+      ]
+    },
+    {
+      "id": "C4-MATH-7",
+      "name": "Area and Perimeter",
+      "month_coverage": "October-November",
+      "triggers": [
+        "area",
+        "perimeter",
+        "area of rectangle",
+        "perimeter of square",
+        "area and perimeter class 4",
+        "area of irregular shapes"
+      ],
+      "learning_objectives": [
+        "Calculate area and perimeter of rectangles and squares",
+        "Find perimeter of irregular shapes",
+        "Differentiate between area and perimeter",
+        "Apply in word problems involving fencing or flooring"
+      ],
+      "bloom_level": "Apply, Analyze",
+      "worksheet_types": [
+        "find the area",
+        "find the perimeter",
+        "word problems",
+        "area of irregular shapes on grid"
+      ]
+    },
+    {
+      "id": "C4-MATH-8",
+      "name": "Geometry – Angles and Lines",
+      "month_coverage": "November-December",
+      "triggers": [
+        "angles",
+        "acute angle",
+        "obtuse angle",
+        "right angle",
+        "types of angles class 4",
+        "lines class 4",
+        "parallel lines",
+        "perpendicular lines"
+      ],
+      "learning_objectives": [
+        "Identify acute, obtuse and right angles",
+        "Measure angles using a protractor",
+        "Identify parallel and perpendicular lines",
+        "Draw angles of given measures"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "name the angle",
+        "measure the angle",
+        "draw the angle",
+        "identify parallel and perpendicular lines"
+      ]
+    },
+    {
+      "id": "C4-MATH-9",
+      "name": "Time – Advanced",
+      "month_coverage": "December-January",
+      "triggers": [
+        "time class 4",
+        "24 hour clock",
+        "elapsed time",
+        "duration",
+        "am pm",
+        "reading time class 4",
+        "hours minutes seconds"
+      ],
+      "learning_objectives": [
+        "Read time in hours and minutes",
+        "Convert between 12-hour and 24-hour clock",
+        "Calculate elapsed time",
+        "Solve word problems on time"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "draw clock hands",
+        "elapsed time problems",
+        "24 hour to 12 hour conversion"
+      ]
+    },
+    {
+      "id": "C4-MATH-10",
+      "name": "Data Handling – Bar Graphs",
+      "month_coverage": "January-February",
+      "triggers": [
+        "bar graph",
+        "bar chart",
+        "data handling class 4",
+        "pictograph class 4",
+        "reading bar graph",
+        "draw bar graph"
+      ],
+      "learning_objectives": [
+        "Read and interpret bar graphs",
+        "Collect data and represent as bar graph",
+        "Draw conclusions from data"
+      ],
+      "bloom_level": "Apply, Analyze",
+      "worksheet_types": [
+        "read the bar graph",
+        "draw a bar graph",
+        "interpret data questions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 3 / Class 3",
+  "subject": "Environmental Studies (EVS)",
+  "academic_year": "2023-24",
+  "reference": "CBSE Class 3 EVS Syllabus 2023-24 (Looking Around 3, NCERT)",
+  "textbooks": [
+    "Looking Around Book 3 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C3-EVS-1",
+      "name": "Family & Friends – Relationships",
+      "month_coverage": "April-May",
+      "chapter": "Chapter 1",
+      "triggers": [
+        "family and friends",
+        "relationships",
+        "my family",
+        "family tree three generations",
+        "family as support system",
+        "hereditary features",
+        "whom do i look like"
+      ],
+      "learning_objectives": [
+        "Understand concept of family and diversity in family types",
+        "Draw a simple 3-generation family tree",
+        "Understand hereditary features"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "draw family tree",
+        "match family member to relationship",
+        "family roles"
+      ]
+    },
+    {
+      "id": "C3-EVS-2",
+      "name": "Plants Around Us",
+      "month_coverage": "May-June",
+      "chapter": "Chapter 1.2",
+      "triggers": [
+        "plants around us class 3",
+        "plant diversity",
+        "leaves in our lives",
+        "leaf diversity",
+        "compost pit",
+        "seasonal shedding of leaves"
+      ],
+      "learning_objectives": [
+        "Observe and classify plants by size, shape, colour, aroma",
+        "Identify leaves of different plants",
+        "Understand seasonal shedding and composting"
+      ],
+      "bloom_level": "Remember, Understand, Apply",
+      "worksheet_types": [
+        "collect and classify leaves",
+        "label leaf parts",
+        "compost vs not compost"
+      ]
+    },
+    {
+      "id": "C3-EVS-3",
+      "name": "Animals – Small, Big, Creepy Crawlies & Birds",
+      "month_coverage": "June-July",
+      "chapter": "Chapter 1.3",
+      "triggers": [
+        "animals small and big class 3",
+        "creepy crawlies",
+        "birds class 3",
+        "insects flyers",
+        "spiders ants flies",
+        "birds feeding migrating",
+        "animal diversity"
+      ],
+      "learning_objectives": [
+        "Observe and classify animals by size and type",
+        "Identify common insects and birds",
+        "Understand feeding habits and migration of birds"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "classify animals",
+        "insect observation",
+        "bird watching activity"
+      ]
+    },
+    {
+      "id": "C3-EVS-4",
+      "name": "Work and Play",
+      "month_coverage": "July-August",
+      "chapter": "Chapter 1.4",
+      "triggers": [
+        "work around me class 3",
+        "different occupations",
+        "indoor outdoor games",
+        "working children",
+        "child labour",
+        "games we play"
+      ],
+      "learning_objectives": [
+        "Identify different occupations in the community",
+        "Distinguish work time and leisure time",
+        "Show sensitivity to working children"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "match worker to job",
+        "indoor or outdoor game?",
+        "daily time chart"
+      ]
+    },
+    {
+      "id": "C3-EVS-5",
+      "name": "Food – Sources, Cooking & Nutrition",
+      "month_coverage": "August-September",
+      "chapter": "Chapter 2",
+      "triggers": [
+        "food class 3",
+        "foods from plants and animals",
+        "cooking",
+        "food diversity",
+        "what do animals eat",
+        "eating in the family",
+        "balanced diet"
+      ],
+      "learning_objectives": [
+        "Classify food by source (plants/animals)",
+        "Understand different cooking methods",
+        "Appreciate cultural diversity in food"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "classify food",
+        "raw or cooked?",
+        "cooking methods",
+        "balanced plate"
+      ]
+    },
+    {
+      "id": "C3-EVS-6",
+      "name": "Shelter – Houses & Neighbourhood",
+      "month_coverage": "September-October",
+      "chapter": "Chapter 3",
+      "triggers": [
+        "shelter class 3",
+        "houses and houses",
+        "types of houses",
+        "decorating cleaning shelter",
+        "mapping neighbourhood",
+        "my family and other animals"
+      ],
+      "learning_objectives": [
+        "Identify different types of houses and why they are built that way",
+        "Understand need for shelter",
+        "Map the neighbourhood"
+      ],
+      "bloom_level": "Remember, Understand, Apply",
+      "worksheet_types": [
+        "types of houses matching",
+        "draw my neighbourhood",
+        "why sloping roof?"
+      ]
+    },
+    {
+      "id": "C3-EVS-7",
+      "name": "Water – Sources, Uses & Conservation",
+      "month_coverage": "October-November",
+      "chapter": "Chapter 4",
+      "triggers": [
+        "water class 3",
+        "water for my family",
+        "sources of water",
+        "water shortage",
+        "water in our lives",
+        "storing water",
+        "water harvesting",
+        "save water"
+      ],
+      "learning_objectives": [
+        "Name local sources of water",
+        "Understand uses of water for plants, animals and humans",
+        "Understand water conservation and scarcity"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "name the water source",
+        "ways to save water",
+        "water uses chart"
+      ]
+    },
+    {
+      "id": "C3-EVS-8",
+      "name": "Travel & Communication",
+      "month_coverage": "November-December",
+      "chapter": "Chapter 5",
+      "triggers": [
+        "travel class 3",
+        "going places",
+        "ways to travel",
+        "modes of transport",
+        "railway station",
+        "mailing a letter",
+        "post office",
+        "talking without speaking",
+        "communication"
+      ],
+      "learning_objectives": [
+        "Name different modes of transport",
+        "Understand work of people at railway stations",
+        "Understand letter writing and postal system",
+        "Learn about sign language"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "modes of transport classification",
+        "land water or air?",
+        "letter writing activity"
+      ]
+    },
+    {
+      "id": "C3-EVS-9",
+      "name": "Things We Make and Do – Pottery & Textiles",
+      "month_coverage": "December-January",
+      "chapter": "Chapter 6",
+      "triggers": [
+        "things we make and do",
+        "pottery class 3",
+        "textiles class 3",
+        "clay pots",
+        "vegetable prints",
+        "tie and dye",
+        "block printing",
+        "colours and dyes"
+      ],
+      "learning_objectives": [
+        "Understand how pottery is made",
+        "Appreciate diversity in textiles and clothing",
+        "Explore colour mixing and block printing"
+      ],
+      "bloom_level": "Understand, Apply, Create",
+      "worksheet_types": [
+        "clay pot activity",
+        "colour mixing",
+        "block printing design"
+      ]
+    }
+  ]
+}

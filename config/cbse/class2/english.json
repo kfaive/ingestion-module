@@ -1,0 +1,246 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 2 / Class 2",
+  "subject": "English Language Arts",
+  "academic_year": "2023-24",
+  "reference": "CBSE Class 2 English Marigold & Raindrops 2023-24",
+  "textbooks": [
+    "Marigold Book 2 (NCERT)",
+    "Raindrops Book 2 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C2-ENG-1",
+      "name": "Verbs (Action Words)",
+      "month_coverage": "April-May",
+      "triggers": [
+        "verbs",
+        "action words",
+        "doing words",
+        "run jump play",
+        "verb in sentence",
+        "past tense present tense"
+      ],
+      "learning_objectives": [
+        "Identify action words (verbs) in sentences",
+        "Use verbs in present and past tense"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "circle the verb",
+        "fill in the verb",
+        "change to past tense"
+      ]
+    },
+    {
+      "id": "C2-ENG-2",
+      "name": "Adjectives (Describing Words)",
+      "month_coverage": "May-June",
+      "triggers": [
+        "adjectives",
+        "describing words",
+        "big small red round",
+        "adjective in sentence",
+        "opposite adjectives"
+      ],
+      "learning_objectives": [
+        "Identify adjectives in sentences",
+        "Use adjectives to describe nouns",
+        "Match opposite adjectives"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "circle the adjective",
+        "describe the picture",
+        "opposite adjectives"
+      ]
+    },
+    {
+      "id": "C2-ENG-3",
+      "name": "Nouns – Singular & Plural",
+      "month_coverage": "April",
+      "triggers": [
+        "naming words",
+        "common nouns",
+        "proper nouns",
+        "singular plural",
+        "one and many"
+      ],
+      "learning_objectives": [
+        "Identify common and proper nouns",
+        "Form plurals correctly"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "circle the noun",
+        "common or proper?",
+        "write the plural"
+      ]
+    },
+    {
+      "id": "C2-ENG-4",
+      "name": "Pronouns",
+      "month_coverage": "May-June",
+      "triggers": [
+        "pronouns",
+        "he she it",
+        "his her",
+        "you your",
+        "personal pronouns"
+      ],
+      "learning_objectives": [
+        "Use pronouns he/she/it/they correctly",
+        "Replace nouns with pronouns"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "replace with pronoun",
+        "fill in the pronoun"
+      ]
+    },
+    {
+      "id": "C2-ENG-5",
+      "name": "Prepositions (Position Words)",
+      "month_coverage": "June",
+      "triggers": [
+        "prepositions",
+        "in on under",
+        "position words",
+        "above below",
+        "near far behind"
+      ],
+      "learning_objectives": [
+        "Use prepositions of place in sentences",
+        "Identify prepositions in sentences"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "fill in preposition",
+        "draw based on position words",
+        "correct the preposition"
+      ]
+    },
+    {
+      "id": "C2-ENG-6",
+      "name": "Tenses",
+      "month_coverage": "September",
+      "triggers": [
+        "tenses",
+        "past tense",
+        "present tense",
+        "was were",
+        "yesterday today tomorrow",
+        "action words past ed form"
+      ],
+      "learning_objectives": [
+        "Identify present and past tense",
+        "Change sentences from present to past tense"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "change the tense",
+        "past or present?",
+        "rewrite in past tense"
+      ]
+    },
+    {
+      "id": "C2-ENG-7",
+      "name": "Punctuation",
+      "month_coverage": "April, August",
+      "triggers": [
+        "punctuation",
+        "capital letters full stop comma question mark",
+        "punctuation marks"
+      ],
+      "learning_objectives": [
+        "Use capital letters to begin sentences",
+        "Use full stop and question mark correctly",
+        "Apply comma in lists"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "add punctuation",
+        "correct the punctuation",
+        "rewrite with correct punctuation"
+      ]
+    },
+    {
+      "id": "C2-ENG-8",
+      "name": "Reading Comprehension",
+      "month_coverage": "Throughout year",
+      "triggers": [
+        "comprehension",
+        "read and answer",
+        "passage",
+        "reading passage",
+        "answer the questions",
+        "picture comprehension"
+      ],
+      "learning_objectives": [
+        "Read short passages and answer questions",
+        "Identify main idea of a passage",
+        "Answer true/false questions"
+      ],
+      "bloom_level": "Understand, Analyze",
+      "worksheet_types": [
+        "read and answer",
+        "true or false",
+        "find the main idea"
+      ]
+    },
+    {
+      "id": "C2-ENG-9",
+      "name": "NCERT Prose & Poems – Marigold / Raindrops",
+      "month_coverage": "April-March",
+      "triggers": [
+        "first day at school",
+        "haldis adventure",
+        "i am lucky",
+        "a smile",
+        "the wind and the sun",
+        "rain",
+        "zoo manners",
+        "funny bunny",
+        "mr nobody",
+        "granny granny",
+        "i am the music man",
+        "grasshopper and the ant"
+      ],
+      "learning_objectives": [
+        "Read and understand NCERT prose and poems",
+        "Answer comprehension questions",
+        "Appreciate themes of friendship, nature, kindness"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "comprehension questions",
+        "match character to story",
+        "fill in the blanks from text"
+      ]
+    },
+    {
+      "id": "C2-ENG-10",
+      "name": "Writing Skills",
+      "month_coverage": "Throughout year",
+      "triggers": [
+        "picture composition",
+        "guided writing",
+        "paragraph writing",
+        "creative writing",
+        "write about yourself",
+        "my best friend writing"
+      ],
+      "learning_objectives": [
+        "Write 3–5 simple sentences based on a picture",
+        "Compose a short guided paragraph",
+        "Practice neat and legible handwriting"
+      ],
+      "bloom_level": "Apply, Create",
+      "worksheet_types": [
+        "picture composition",
+        "guided paragraph",
+        "write about the topic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 5 / Class 5",
+  "subject": "English Language Arts",
+  "academic_year": "2023-24",
+  "reference": "NCERT English Class 5 - Marigold 5 + Raindrops 5",
+  "textbooks": [
+    "Marigold 5 (NCERT)",
+    "Raindrops 5 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C5-ENG-1",
+      "name": "Comprehension – Unseen Passages",
+      "month_coverage": "April-May",
+      "triggers": [
+        "comprehension class 5",
+        "unseen passage class 5",
+        "reading comprehension grade 5"
+      ],
+      "learning_objectives": [
+        "Read and comprehend unseen passages (300-400 words)",
+        "Identify main idea, theme and supporting details",
+        "Make inferences and draw conclusions",
+        "Answer factual, inferential and vocabulary questions"
+      ],
+      "bloom_level": "Understand, Analyze, Evaluate",
+      "worksheet_types": [
+        "read and answer",
+        "true false not given",
+        "find the meaning",
+        "title the passage"
+      ]
+    },
+    {
+      "id": "C5-ENG-2",
+      "name": "Tenses – All Forms",
+      "month_coverage": "May-July",
+      "triggers": [
+        "tenses class 5",
+        "all tenses class 5",
+        "perfect tense class 5",
+        "present perfect",
+        "past perfect",
+        "future perfect class 5"
+      ],
+      "learning_objectives": [
+        "Use all simple, continuous and perfect tenses",
+        "Distinguish between past simple and present perfect",
+        "Convert sentences between tenses",
+        "Use correct tense in compositions"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "identify and convert tense",
+        "fill in correct tense",
+        "error correction in tense",
+        "composition with correct tenses"
+      ]
+    },
+    {
+      "id": "C5-ENG-3",
+      "name": "Grammar – Pronouns, Conjunctions, Prepositions",
+      "month_coverage": "July-September",
+      "triggers": [
+        "pronouns class 5",
+        "conjunctions class 5",
+        "prepositions class 5",
+        "relative pronouns",
+        "subordinating conjunction"
+      ],
+      "learning_objectives": [
+        "Use personal, possessive, reflexive and relative pronouns",
+        "Use coordinating and subordinating conjunctions",
+        "Use prepositions of time, place and movement accurately"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "fill in the pronoun",
+        "join sentences with conjunctions",
+        "preposition fill in",
+        "error correction"
+      ]
+    },
+    {
+      "id": "C5-ENG-4",
+      "name": "Active and Passive Voice",
+      "month_coverage": "September-October",
+      "triggers": [
+        "active passive voice class 5",
+        "active to passive",
+        "passive voice class 5",
+        "voice change class 5"
+      ],
+      "learning_objectives": [
+        "Identify active and passive voice sentences",
+        "Convert active voice to passive voice in simple present and past",
+        "Understand when passive voice is appropriate"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "identify active or passive",
+        "convert to passive voice",
+        "convert to active voice"
+      ]
+    },
+    {
+      "id": "C5-ENG-5",
+      "name": "Direct and Indirect Speech",
+      "month_coverage": "October-November",
+      "triggers": [
+        "direct indirect speech class 5",
+        "reported speech class 5",
+        "narration change class 5"
+      ],
+      "learning_objectives": [
+        "Identify direct and indirect speech",
+        "Convert direct speech to indirect speech",
+        "Apply correct changes in pronouns, tense and time expressions"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "identify direct or indirect",
+        "convert to indirect speech",
+        "convert to direct speech"
+      ]
+    },
+    {
+      "id": "C5-ENG-6",
+      "name": "Composition – Essay, Formal Letter, Story",
+      "month_coverage": "November-February",
+      "triggers": [
+        "essay writing class 5",
+        "formal letter class 5",
+        "story writing class 5",
+        "composition class 5",
+        "notice writing class 5"
+      ],
+      "learning_objectives": [
+        "Write structured essays with introduction, body and conclusion",
+        "Write formal and informal letters with correct format",
+        "Write creative stories using narrative techniques",
+        "Write a notice or an advertisement"
+      ],
+      "bloom_level": "Apply, Create",
+      "worksheet_types": [
+        "write an essay",
+        "write a formal letter",
+        "continue the story",
+        "write a notice"
+      ]
+    }
+  ]
+}

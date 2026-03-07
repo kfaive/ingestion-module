@@ -1,0 +1,186 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 4 / Class 4",
+  "subject": "Environmental Studies (EVS) / Science",
+  "academic_year": "2023-24",
+  "reference": "NCERT EVS Class 4 - Looking Around 4",
+  "textbooks": [
+    "Looking Around 4 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C4-EVS-1",
+      "name": "Adaptation in Animals",
+      "month_coverage": "April-May",
+      "triggers": [
+        "adaptation animals class 4",
+        "camouflage",
+        "hibernation",
+        "migration",
+        "animal adaptation class 4",
+        "animals in extreme conditions"
+      ],
+      "learning_objectives": [
+        "Define adaptation and explain why animals adapt",
+        "Give examples of camouflage (chameleon, stick insect)",
+        "Explain hibernation (bear, frog) and migration (birds)",
+        "Describe adaptations for desert (camel) and polar (polar bear) environments"
+      ],
+      "bloom_level": "Understand, Analyze",
+      "worksheet_types": [
+        "match adaptation to animal",
+        "explain the adaptation",
+        "fill in adaptation examples",
+        "draw and label adapted animal"
+      ]
+    },
+    {
+      "id": "C4-EVS-2",
+      "name": "Plants – Adaptation and Reproduction",
+      "month_coverage": "May-June",
+      "triggers": [
+        "plant adaptation class 4",
+        "dispersal of seeds",
+        "seed dispersal",
+        "desert plants",
+        "aquatic plants",
+        "reproduction in plants class 4"
+      ],
+      "learning_objectives": [
+        "Explain how plants adapt to different environments (cactus, water lily, pine)",
+        "Describe methods of seed dispersal: wind, water, animals, explosion",
+        "Identify parts of a flower and their roles in reproduction"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "match plant to habitat",
+        "draw dispersal methods",
+        "label parts of a flower",
+        "seed dispersal sort"
+      ]
+    },
+    {
+      "id": "C4-EVS-3",
+      "name": "Food – Nutrients and Balanced Diet",
+      "month_coverage": "June-July",
+      "triggers": [
+        "nutrients class 4",
+        "balanced diet class 4",
+        "carbohydrates proteins fats",
+        "vitamins minerals class 4",
+        "deficiency diseases class 4"
+      ],
+      "learning_objectives": [
+        "Name the main nutrients: carbohydrates, proteins, fats, vitamins, minerals, water",
+        "Identify food sources for each nutrient",
+        "Describe a balanced diet",
+        "Name common deficiency diseases (scurvy, rickets, anaemia)"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "nutrient food chart",
+        "classify food by nutrient",
+        "balanced diet plate",
+        "deficiency disease matching"
+      ]
+    },
+    {
+      "id": "C4-EVS-4",
+      "name": "Our Environment – Pollution",
+      "month_coverage": "July-August",
+      "triggers": [
+        "pollution class 4",
+        "air pollution water pollution",
+        "soil pollution",
+        "environmental pollution",
+        "causes of pollution",
+        "reduce reuse recycle"
+      ],
+      "learning_objectives": [
+        "Define air, water and soil pollution",
+        "Identify major causes of pollution",
+        "Explain effects of pollution on living things",
+        "Suggest ways to reduce pollution (3 Rs)"
+      ],
+      "bloom_level": "Understand, Evaluate",
+      "worksheet_types": [
+        "causes and effects chart",
+        "classify pollution types",
+        "poster slogan for pollution",
+        "fill in 3R examples"
+      ]
+    },
+    {
+      "id": "C4-EVS-5",
+      "name": "Force and Motion",
+      "month_coverage": "August-September",
+      "triggers": [
+        "force class 4",
+        "push pull class 4",
+        "motion class 4",
+        "friction class 4",
+        "gravity class 4",
+        "effects of force"
+      ],
+      "learning_objectives": [
+        "Define force as a push or a pull",
+        "Identify types of force: muscular, gravitational, magnetic, frictional",
+        "Explain effects of friction (advantages and disadvantages)",
+        "Describe how gravity acts on objects"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "push or pull sort",
+        "effects of friction",
+        "fill in about gravity",
+        "types of force matching"
+      ]
+    },
+    {
+      "id": "C4-EVS-6",
+      "name": "Water – The Water Cycle",
+      "month_coverage": "September-October",
+      "triggers": [
+        "water cycle class 4",
+        "evaporation condensation precipitation",
+        "cloud formation class 4",
+        "rain cycle class 4"
+      ],
+      "learning_objectives": [
+        "Describe the stages of the water cycle: evaporation, condensation, precipitation",
+        "Explain cloud formation",
+        "Discuss the importance of water conservation"
+      ],
+      "bloom_level": "Understand, Analyze",
+      "worksheet_types": [
+        "label the water cycle",
+        "fill stages in sequence",
+        "true or false water cycle",
+        "water conservation poster"
+      ]
+    },
+    {
+      "id": "C4-EVS-7",
+      "name": "Our State and India – Geography Basics",
+      "month_coverage": "October-November",
+      "triggers": [
+        "states of india class 4",
+        "map of india",
+        "rivers of india",
+        "mountains india class 4",
+        "our state class 4"
+      ],
+      "learning_objectives": [
+        "Identify major states and union territories on a map",
+        "Name major rivers and mountain ranges of India",
+        "Describe climate zones in India (tropical, temperate, cold)"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "label map of India",
+        "match river to state",
+        "fill in the blanks on geography"
+      ]
+    }
+  ]
+}

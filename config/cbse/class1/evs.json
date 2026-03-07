@@ -1,0 +1,302 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 1 / Class 1",
+  "subject": "Environmental Studies (EVS)",
+  "academic_year": "2023-24",
+  "reference": "DPS Ruby Park Kolkata EVS Session 2023-24 | Start Up Science-1 (Viva Education)",
+  "textbooks": [
+    "Start Up Science–1 (Viva Education)"
+  ],
+  "topics": [
+    {
+      "id": "C1-EVS-1",
+      "name": "Our Body",
+      "month_coverage": "April-May",
+      "triggers": [
+        "our body",
+        "body parts",
+        "sense organs",
+        "five senses",
+        "eyes ears nose mouth",
+        "parts of body"
+      ],
+      "learning_objectives": [
+        "Name major external body parts",
+        "Identify the five sense organs and their functions"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "label the body",
+        "match sense to organ",
+        "what do I use to...?"
+      ]
+    },
+    {
+      "id": "C1-EVS-2",
+      "name": "Living and Non-Living Things",
+      "month_coverage": "June",
+      "triggers": [
+        "living non-living",
+        "living things",
+        "non-living things",
+        "characteristics of living things"
+      ],
+      "learning_objectives": [
+        "Distinguish between living and non-living things",
+        "List characteristics of living things"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "sort living/non-living",
+        "circle living things",
+        "true or false"
+      ]
+    },
+    {
+      "id": "C1-EVS-3",
+      "name": "The World of Plants",
+      "month_coverage": "July",
+      "triggers": [
+        "world of plants",
+        "plants",
+        "trees shrubs herbs",
+        "parts of plant",
+        "roots stem leaf flower fruit"
+      ],
+      "learning_objectives": [
+        "Identify parts of a plant",
+        "Classify plants as trees, shrubs, herbs"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "label the plant",
+        "sort by plant type",
+        "draw and label"
+      ]
+    },
+    {
+      "id": "C1-EVS-4",
+      "name": "Food from Plants",
+      "month_coverage": "July",
+      "triggers": [
+        "food from plants",
+        "plants we eat",
+        "fruits vegetables",
+        "roots leaves stems we eat"
+      ],
+      "learning_objectives": [
+        "Identify which parts of plants we eat",
+        "Name common food plants"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "match plant part to food",
+        "circle foods from plants"
+      ]
+    },
+    {
+      "id": "C1-EVS-5",
+      "name": "The World of Animals",
+      "month_coverage": "August",
+      "triggers": [
+        "world of animals",
+        "pet animals",
+        "wild animals",
+        "farm animals",
+        "birds",
+        "classify animals"
+      ],
+      "learning_objectives": [
+        "Classify animals as pets, farm, wild, birds",
+        "Identify animal habitats"
+      ],
+      "bloom_level": "Remember, Understand, Apply",
+      "worksheet_types": [
+        "sort the animals",
+        "match animal to habitat"
+      ]
+    },
+    {
+      "id": "C1-EVS-6",
+      "name": "Food and Homes of Animals",
+      "month_coverage": "August",
+      "triggers": [
+        "food and homes of animals",
+        "what animals eat",
+        "animal homes",
+        "young ones of animals",
+        "cow milk hen egg"
+      ],
+      "learning_objectives": [
+        "Match animals to their young ones and homes",
+        "Identify useful products from animals"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "match animal to home",
+        "what does it give us?",
+        "young ones matching"
+      ]
+    },
+    {
+      "id": "C1-EVS-7",
+      "name": "Food For Health",
+      "month_coverage": "September",
+      "triggers": [
+        "food for health",
+        "healthy food",
+        "junk food",
+        "balanced diet",
+        "food groups",
+        "nutritious food"
+      ],
+      "learning_objectives": [
+        "Identify healthy and unhealthy food",
+        "Understand importance of balanced diet"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "healthy or junk food?",
+        "plan a healthy meal",
+        "food groups chart"
+      ]
+    },
+    {
+      "id": "C1-EVS-8",
+      "name": "Keeping Clean, Healthy and Safe",
+      "month_coverage": "September",
+      "triggers": [
+        "keeping clean",
+        "personal hygiene",
+        "healthy habits",
+        "safety",
+        "washing hands",
+        "clean habits"
+      ],
+      "learning_objectives": [
+        "Practice good personal hygiene habits",
+        "Follow safety rules"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "good or bad habit?",
+        "safety rules matching",
+        "hygiene checklist"
+      ]
+    },
+    {
+      "id": "C1-EVS-9",
+      "name": "Clothes and Shelter",
+      "month_coverage": "October",
+      "triggers": [
+        "clothes shelter",
+        "types of houses",
+        "why we wear clothes",
+        "clothing and shelter",
+        "houses"
+      ],
+      "learning_objectives": [
+        "Understand why we need clothes and shelter",
+        "Identify different types of houses"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "match season to clothing",
+        "types of houses",
+        "circle the shelter"
+      ]
+    },
+    {
+      "id": "C1-EVS-10",
+      "name": "Air Around Us",
+      "month_coverage": "November",
+      "triggers": [
+        "air around us",
+        "properties of air",
+        "uses of air",
+        "wind",
+        "we need air"
+      ],
+      "learning_objectives": [
+        "Describe properties of air",
+        "List uses of air for living things"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "properties of air fill-in",
+        "uses of air matching",
+        "true or false about air"
+      ]
+    },
+    {
+      "id": "C1-EVS-11",
+      "name": "Water",
+      "month_coverage": "December",
+      "triggers": [
+        "water",
+        "sources of water",
+        "uses of water",
+        "save water",
+        "water conservation",
+        "river lake pond well"
+      ],
+      "learning_objectives": [
+        "Name sources of water",
+        "List uses of water",
+        "Explain importance of saving water"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "name the water source",
+        "uses of water",
+        "ways to save water"
+      ]
+    },
+    {
+      "id": "C1-EVS-12",
+      "name": "Weather and Seasons",
+      "month_coverage": "January",
+      "triggers": [
+        "weather seasons",
+        "summer winter monsoon",
+        "types of weather",
+        "seasons",
+        "rainy season cold season hot season"
+      ],
+      "learning_objectives": [
+        "Name the seasons",
+        "Describe weather in each season",
+        "Relate clothing to season"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "match season to weather",
+        "dress for the season",
+        "season chart"
+      ]
+    },
+    {
+      "id": "C1-EVS-13",
+      "name": "In The Sky",
+      "month_coverage": "February",
+      "triggers": [
+        "in the sky",
+        "sun moon stars",
+        "clouds rain",
+        "sky objects",
+        "day and night",
+        "sun rises sets"
+      ],
+      "learning_objectives": [
+        "Name objects seen in the sky",
+        "Distinguish between day and night sky"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "label sky objects",
+        "day or night sky?",
+        "sun moon stars matching"
+      ]
+    }
+  ]
+}

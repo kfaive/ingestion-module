@@ -1,0 +1,90 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 3 / Class 3",
+  "subject": "Hindi",
+  "academic_year": "2023-24",
+  "reference": "CBSE Class 3 Hindi Syllabus 2023-24 (Rimjhim 3)",
+  "textbooks": [
+    "Rimjhim Book 3 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C3-HIN-1",
+      "name": "NCERT Prose – Rimjhim 3",
+      "month_coverage": "April-March",
+      "triggers": [
+        "kakku",
+        "shekhibaaz makkhi",
+        "man karta hai",
+        "bahaadar bitto",
+        "hamse sab kahte",
+        "tipitipawa",
+        "bandar bant",
+        "kab aaoo",
+        "kyon jimal aur kaise kaisaliya",
+        "meera bahan aur baagh",
+        "jab mujhe saap ne kata",
+        "mirch ka maza",
+        "sabse achha ped"
+      ],
+      "learning_objectives": [
+        "Read and understand NCERT Hindi prose",
+        "Answer comprehension questions in Hindi",
+        "Appreciate themes of courage, nature and friendship"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "comprehension questions in Hindi",
+        "character description",
+        "fill in the blanks"
+      ]
+    },
+    {
+      "id": "C3-HIN-2",
+      "name": "Matra Revision & Advanced Matras",
+      "month_coverage": "April-June",
+      "triggers": [
+        "matra class 3",
+        "all matras revision",
+        "chandrabindu",
+        "anuswaar",
+        "matra words class 3"
+      ],
+      "learning_objectives": [
+        "Revise all basic matras",
+        "Read and write words with chandrabindu and anuswaar",
+        "Form complex words using matras"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "matra identification",
+        "fill in the matra",
+        "word building"
+      ]
+    },
+    {
+      "id": "C3-HIN-3",
+      "name": "Vyakaran – Grammar",
+      "month_coverage": "Throughout year",
+      "triggers": [
+        "hindi grammar class 3",
+        "sangya",
+        "sarvanam",
+        "visheshan",
+        "kriya",
+        "hindi vyakaran"
+      ],
+      "learning_objectives": [
+        "Identify nouns (sangya), pronouns (sarvanam), adjectives (visheshan) and verbs (kriya) in Hindi",
+        "Write correct Hindi sentences",
+        "Use punctuation in Hindi writing"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "identify part of speech",
+        "fill in the correct word form",
+        "rewrite correct sentence"
+      ]
+    }
+  ]
+}

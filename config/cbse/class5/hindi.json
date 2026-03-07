@@ -1,0 +1,88 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 5 / Class 5",
+  "subject": "Hindi",
+  "academic_year": "2023-24",
+  "reference": "NCERT Hindi Class 5 - Rimjhim 5",
+  "textbooks": [
+    "Rimjhim 5 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C5-HIN-1",
+      "name": "Rimjhim 5 – Chapters 1–5 (Term I)",
+      "month_coverage": "April-June",
+      "triggers": [
+        "rimjhim 5 chapter 1",
+        "rimjhim 5 term 1",
+        "class 5 hindi term 1"
+      ],
+      "learning_objectives": [
+        "Read and understand Class 5 level Hindi prose and poetry",
+        "Answer comprehension questions in complete sentences",
+        "Identify उपसर्ग (prefix) and प्रत्यय (suffix)",
+        "Expand vocabulary using context"
+      ],
+      "bloom_level": "Understand, Apply",
+      "ncert_reference": "Rimjhim 5 – Units 1–5",
+      "worksheet_types": [
+        "बोध प्रश्न",
+        "शब्द भंडार",
+        "उपसर्ग-प्रत्यय पहचानो",
+        "वाक्य रचना"
+      ]
+    },
+    {
+      "id": "C5-HIN-2",
+      "name": "व्याकरण – Advanced Grammar Class 5",
+      "month_coverage": "April-February",
+      "triggers": [
+        "hindi grammar class 5",
+        "sandhi class 5",
+        "samas class 5",
+        "muhavare class 5",
+        "lokokti class 5",
+        "alankar class 5"
+      ],
+      "learning_objectives": [
+        "Apply संधि (sandhi) and समास (samas) rules",
+        "Use मुहावरे (idioms) and लोकोक्तियाँ (proverbs) in context",
+        "Identify अलंकार: अनुप्रास, उपमा, रूपक",
+        "Write compound and complex sentences in Hindi"
+      ],
+      "bloom_level": "Understand, Apply, Analyze",
+      "worksheet_types": [
+        "संधि-विच्छेद",
+        "समास पहचानो",
+        "मुहावरे का अर्थ और वाक्य प्रयोग",
+        "अलंकार पहचानो"
+      ]
+    },
+    {
+      "id": "C5-HIN-3",
+      "name": "Rimjhim 5 – Chapters 6–18 + Lekhan",
+      "month_coverage": "July-February",
+      "triggers": [
+        "rimjhim 5 term 2",
+        "rimjhim 5 term 3",
+        "hindi lekhan class 5",
+        "nibandh lekhan class 5",
+        "patra lekhan class 5"
+      ],
+      "learning_objectives": [
+        "Read chapters 6–18 of Rimjhim 5",
+        "Write निबंध (essay) of 150-200 words",
+        "Write औपचारिक और अनौपचारिक पत्र (formal and informal letters)",
+        "Write संवाद (dialogue) between two characters"
+      ],
+      "bloom_level": "Apply, Create",
+      "ncert_reference": "Rimjhim 5 – Units 6–18",
+      "worksheet_types": [
+        "निबंध लेखन",
+        "पत्र लेखन",
+        "संवाद लेखन",
+        "कहानी लेखन"
+      ]
+    }
+  ]
+}

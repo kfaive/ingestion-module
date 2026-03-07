@@ -1,0 +1,210 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 5 / Class 5",
+  "subject": "Mathematics",
+  "academic_year": "2023-24",
+  "reference": "NCERT Mathematics Class 5 - Math Magic",
+  "textbooks": [
+    "Math Magic 5 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C5-MATH-1",
+      "name": "Large Numbers – Crores",
+      "month_coverage": "April-May",
+      "triggers": [
+        "crores",
+        "7 digit numbers",
+        "8 digit numbers",
+        "crore class 5",
+        "indian vs international number system",
+        "international number system"
+      ],
+      "learning_objectives": [
+        "Read and write numbers up to crores (8 digits)",
+        "Compare Indian number system (lakhs, crores) with International (millions, billions)",
+        "Expand numbers up to crores",
+        "Round off numbers to nearest thousand/lakh"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "place value up to crores",
+        "Indian vs international system",
+        "round off numbers",
+        "expanded form crores"
+      ]
+    },
+    {
+      "id": "C5-MATH-2",
+      "name": "Fractions – Unlike and Mixed Numbers",
+      "month_coverage": "May-June",
+      "triggers": [
+        "unlike fractions class 5",
+        "lcm fractions",
+        "add unlike fractions",
+        "mixed numbers class 5",
+        "fractions class 5",
+        "subtract unlike fractions"
+      ],
+      "learning_objectives": [
+        "Add and subtract unlike fractions using LCM method",
+        "Convert between mixed numbers and improper fractions",
+        "Multiply fractions by whole numbers",
+        "Solve word problems involving fractions"
+      ],
+      "bloom_level": "Apply, Analyze",
+      "worksheet_types": [
+        "add unlike fractions LCM",
+        "mixed number conversion",
+        "multiply fraction by whole number",
+        "fraction word problems"
+      ]
+    },
+    {
+      "id": "C5-MATH-3",
+      "name": "Decimals – Operations",
+      "month_coverage": "June-July",
+      "triggers": [
+        "decimals class 5",
+        "add decimals",
+        "subtract decimals",
+        "multiply decimals",
+        "divide decimals class 5"
+      ],
+      "learning_objectives": [
+        "Add and subtract decimal numbers",
+        "Multiply decimals by 10, 100, 1000",
+        "Divide decimals by whole numbers",
+        "Solve decimal word problems (money, measurement)"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "decimal addition subtraction",
+        "multiply by 10 100 1000",
+        "decimal word problems",
+        "decimal division"
+      ]
+    },
+    {
+      "id": "C5-MATH-4",
+      "name": "Percentage",
+      "month_coverage": "July-August",
+      "triggers": [
+        "percentage class 5",
+        "percent",
+        "%",
+        "fraction to percent",
+        "percent to decimal",
+        "percentage word problems class 5"
+      ],
+      "learning_objectives": [
+        "Convert fractions and decimals to percentages and vice versa",
+        "Calculate percentage of a number",
+        "Solve real-life percentage problems (discount, profit, loss basics)"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "fraction to percent",
+        "find the percentage of",
+        "percentage word problems"
+      ]
+    },
+    {
+      "id": "C5-MATH-5",
+      "name": "Average",
+      "month_coverage": "August-September",
+      "triggers": [
+        "average class 5",
+        "mean class 5",
+        "arithmetic mean",
+        "find the average",
+        "average word problems"
+      ],
+      "learning_objectives": [
+        "Calculate average (mean) of a set of numbers",
+        "Find a missing value given the average",
+        "Solve word problems on average (marks, temperature)"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "find the average",
+        "find the missing number",
+        "average word problems"
+      ]
+    },
+    {
+      "id": "C5-MATH-6",
+      "name": "Area and Volume",
+      "month_coverage": "September-October",
+      "triggers": [
+        "area class 5",
+        "volume class 5",
+        "area of triangle",
+        "volume of cuboid class 5",
+        "surface area class 5"
+      ],
+      "learning_objectives": [
+        "Calculate area of rectangles, squares and triangles",
+        "Find volume of cuboids using l×b×h",
+        "Differentiate area (2D) and volume (3D)",
+        "Solve application problems on area and volume"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "find area of triangle",
+        "find volume of cuboid",
+        "area vs volume word problems"
+      ]
+    },
+    {
+      "id": "C5-MATH-7",
+      "name": "Geometry – Polygons and Circles",
+      "month_coverage": "October-November",
+      "triggers": [
+        "polygons class 5",
+        "types of triangles class 5",
+        "quadrilaterals class 5",
+        "circles class 5",
+        "radius diameter circumference"
+      ],
+      "learning_objectives": [
+        "Classify triangles by sides and angles",
+        "Identify types of quadrilaterals and their properties",
+        "Name parts of a circle: centre, radius, diameter, circumference",
+        "Calculate circumference and area of circle (introduction)"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "classify triangles",
+        "properties of quadrilaterals",
+        "label parts of circle",
+        "circle calculations"
+      ]
+    },
+    {
+      "id": "C5-MATH-8",
+      "name": "Data Handling – Pie Charts and Mean",
+      "month_coverage": "November-February",
+      "triggers": [
+        "pie chart class 5",
+        "bar graph class 5",
+        "data handling class 5",
+        "mode median mean class 5",
+        "line graph class 5"
+      ],
+      "learning_objectives": [
+        "Read and interpret pie charts and bar graphs",
+        "Find mean, median and mode of a data set",
+        "Represent data as bar graphs and pie charts",
+        "Draw conclusions from given data"
+      ],
+      "bloom_level": "Apply, Analyze",
+      "worksheet_types": [
+        "read the pie chart",
+        "find mean median mode",
+        "draw a bar graph",
+        "data questions"
+      ]
+    }
+  ]
+}

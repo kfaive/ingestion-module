@@ -1,0 +1,389 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 1 / Class 1",
+  "subject": "English Language Arts",
+  "academic_year": "2023-24",
+  "reference": "DPS Ruby Park Kolkata Class 1 English 2023-24 | New Oxford Modern English Coursebook 1 | Collins English Grammar 1",
+  "textbooks": [
+    "New Oxford Modern English Coursebook 1 (OUP)",
+    "Collins English Grammar & Composition 1",
+    "Wonderful English Grammar Book I (Sahitya Bharati)"
+  ],
+  "topics": [
+    {
+      "id": "C1-ENG-1",
+      "name": "Articles – A / An / The",
+      "month_coverage": "April",
+      "triggers": [
+        "a an the",
+        "articles",
+        "article a",
+        "article an",
+        "use of a and an"
+      ],
+      "learning_objectives": [
+        "Use 'a' before consonant sounds, 'an' before vowel sounds",
+        "Use 'the' for specific nouns"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "fill in a/an/the",
+        "correct the article",
+        "write a or an"
+      ]
+    },
+    {
+      "id": "C1-ENG-2",
+      "name": "Naming Words (Nouns) – Common & Proper",
+      "month_coverage": "April",
+      "triggers": [
+        "naming words",
+        "common nouns",
+        "proper nouns",
+        "common names special names",
+        "name of person place thing"
+      ],
+      "learning_objectives": [
+        "Identify common and proper nouns",
+        "Use capital letters for proper nouns"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "circle the noun",
+        "sort common/proper nouns",
+        "capital letters for names"
+      ]
+    },
+    {
+      "id": "C1-ENG-3",
+      "name": "Punctuation (Capital Letter, Full Stop, Comma, Question Mark)",
+      "month_coverage": "April",
+      "triggers": [
+        "punctuation",
+        "capital letter",
+        "full stop",
+        "comma",
+        "question mark",
+        "sentence punctuation"
+      ],
+      "learning_objectives": [
+        "Begin sentences with capital letters",
+        "End sentences with full stop or question mark",
+        "Use comma correctly"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "add punctuation",
+        "correct the sentence",
+        "write with punctuation"
+      ]
+    },
+    {
+      "id": "C1-ENG-4",
+      "name": "Doing Words (Verbs)",
+      "month_coverage": "May",
+      "triggers": [
+        "doing words",
+        "action words",
+        "verbs",
+        "run jump play",
+        "doing words revision"
+      ],
+      "learning_objectives": [
+        "Identify action words (verbs) in sentences",
+        "Use verbs in sentences"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "circle the action word",
+        "fill in the verb",
+        "match verb to picture"
+      ]
+    },
+    {
+      "id": "C1-ENG-5",
+      "name": "Singular and Plural (with 's' and 'es')",
+      "month_coverage": "May",
+      "triggers": [
+        "one and more than one",
+        "singular plural",
+        "with s and es",
+        "one many",
+        "plural forms"
+      ],
+      "learning_objectives": [
+        "Form plurals using 's' and 'es'",
+        "Identify singular and plural nouns"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "write the plural",
+        "one or many?",
+        "fill in singular/plural"
+      ]
+    },
+    {
+      "id": "C1-ENG-6",
+      "name": "Is / Am / Are",
+      "month_coverage": "June",
+      "triggers": [
+        "am is are",
+        "use of am is are",
+        "am/is/are"
+      ],
+      "learning_objectives": [
+        "Use 'am', 'is', 'are' correctly in sentences"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "fill in am/is/are",
+        "correct the sentence",
+        "make sentences"
+      ]
+    },
+    {
+      "id": "C1-ENG-7",
+      "name": "Position Words (Prepositions)",
+      "month_coverage": "June",
+      "triggers": [
+        "position words",
+        "in on under",
+        "prepositions",
+        "above below behind",
+        "in/on/under"
+      ],
+      "learning_objectives": [
+        "Use prepositions: in, on, under, above, below, behind",
+        "Describe position of objects"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "fill in the preposition",
+        "circle correct position word",
+        "draw as described"
+      ]
+    },
+    {
+      "id": "C1-ENG-8",
+      "name": "This / That / These / Those",
+      "month_coverage": "July",
+      "triggers": [
+        "this that these those",
+        "demonstratives",
+        "this/that/these/those"
+      ],
+      "learning_objectives": [
+        "Use 'this/that' (singular) and 'these/those' (plural) correctly"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "fill this/that/these/those",
+        "correct the sentence"
+      ]
+    },
+    {
+      "id": "C1-ENG-9",
+      "name": "Gender",
+      "month_coverage": "July",
+      "triggers": [
+        "gender",
+        "masculine feminine",
+        "he she",
+        "boy girl",
+        "gender in english"
+      ],
+      "learning_objectives": [
+        "Identify masculine and feminine forms of nouns",
+        "Use he/she correctly"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "match masculine to feminine",
+        "circle he or she",
+        "write the gender"
+      ]
+    },
+    {
+      "id": "C1-ENG-10",
+      "name": "Pronouns (I/You/She/He/It/We/They)",
+      "month_coverage": "August",
+      "triggers": [
+        "pronouns",
+        "i you she he it we they",
+        "personal pronouns",
+        "use of pronouns"
+      ],
+      "learning_objectives": [
+        "Use personal pronouns correctly in sentences",
+        "Replace nouns with pronouns"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "replace noun with pronoun",
+        "fill in the pronoun",
+        "circle the pronoun"
+      ]
+    },
+    {
+      "id": "C1-ENG-11",
+      "name": "Describing Words (Adjectives)",
+      "month_coverage": "August",
+      "triggers": [
+        "describing words",
+        "adjectives",
+        "big small red round",
+        "adjective in sentence",
+        "describing words"
+      ],
+      "learning_objectives": [
+        "Identify adjectives in sentences",
+        "Use adjectives to describe nouns"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "circle the describing word",
+        "describe the picture",
+        "fill in adjective"
+      ]
+    },
+    {
+      "id": "C1-ENG-12",
+      "name": "Tenses (Past / Present / Future)",
+      "month_coverage": "September-October",
+      "triggers": [
+        "tenses",
+        "past tense present tense",
+        "yesterday everyday tomorrow",
+        "was were had",
+        "will",
+        "tenses revision"
+      ],
+      "learning_objectives": [
+        "Use present, past and future tense",
+        "Identify tense in sentences"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "change the tense",
+        "fill in correct tense",
+        "rewrite in past tense"
+      ]
+    },
+    {
+      "id": "C1-ENG-13",
+      "name": "Has / Have",
+      "month_coverage": "November",
+      "triggers": [
+        "has have",
+        "use of has have",
+        "has/have"
+      ],
+      "learning_objectives": [
+        "Use 'has' and 'have' correctly in sentences"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "fill in has/have",
+        "correct the sentence"
+      ]
+    },
+    {
+      "id": "C1-ENG-14",
+      "name": "Was / Were / Had",
+      "month_coverage": "November",
+      "triggers": [
+        "was were had",
+        "past tense was were",
+        "use of was were"
+      ],
+      "learning_objectives": [
+        "Use 'was', 'were', 'had' in past tense sentences"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "fill in was/were/had",
+        "rewrite in past"
+      ]
+    },
+    {
+      "id": "C1-ENG-15",
+      "name": "Will (Future Tense)",
+      "month_coverage": "December",
+      "triggers": [
+        "will",
+        "future tense will",
+        "will sentence",
+        "use of will"
+      ],
+      "learning_objectives": [
+        "Use 'will' to express future tense"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "fill in will",
+        "write future sentences"
+      ]
+    },
+    {
+      "id": "C1-ENG-16",
+      "name": "Question Words",
+      "month_coverage": "December",
+      "triggers": [
+        "question words",
+        "what where when who why how",
+        "wh questions",
+        "question words"
+      ],
+      "learning_objectives": [
+        "Use question words: what, where, when, who, why, how",
+        "Form simple questions"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "fill the question word",
+        "write a question",
+        "match question to answer"
+      ]
+    },
+    {
+      "id": "C1-ENG-17",
+      "name": "Joining Words (And / Or / But)",
+      "month_coverage": "December",
+      "triggers": [
+        "joining words",
+        "and or but",
+        "conjunctions",
+        "joining sentences"
+      ],
+      "learning_objectives": [
+        "Use 'and', 'or', 'but' to join sentences"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "join the sentences",
+        "fill in and/or/but"
+      ]
+    },
+    {
+      "id": "C1-ENG-18",
+      "name": "Homophones & Compound Words",
+      "month_coverage": "January",
+      "triggers": [
+        "homophones",
+        "compound words",
+        "words that sound alike",
+        "see/sea",
+        "words with two meanings"
+      ],
+      "learning_objectives": [
+        "Identify homophones",
+        "Form compound words"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "match the homophones",
+        "make compound words"
+      ]
+    }
+  ]
+}

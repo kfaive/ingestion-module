@@ -1,0 +1,79 @@
+{
+  "board": "CBSE",
+  "grade": "KG / LKG / UKG",
+  "subject": "Kannada (II Language)",
+  "academic_year": "2023-24",
+  "reference": "Generic CBSE KG Framework – Kannada medium schools / Bengaluru",
+  "textbooks": [
+    "School-specific KG Kannada workbook"
+  ],
+  "topics": [
+    {
+      "id": "KG-KAN-1",
+      "name": "Kannada Vowels (Swarakshara) – ಅ to ಔ",
+      "month_coverage": "April-June",
+      "triggers": [
+        "kannada swar",
+        "kannada vowels",
+        "kannada letters a to ee",
+        "introduction to kannada letter",
+        "ಅ ಆ ಇ ಈ"
+      ],
+      "learning_objectives": [
+        "Recognize Kannada vowels: ಅ ಆ ಇ ಈ ಉ ಊ ಎ ಏ ಒ ಓ",
+        "Associate each vowel with a Kannada word",
+        "Trace and write Kannada vowels"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "trace Kannada letter",
+        "match letter to picture",
+        "circle Kannada letter"
+      ]
+    },
+    {
+      "id": "KG-KAN-2",
+      "name": "Kannada Colours & Vocabulary",
+      "month_coverage": "July-August",
+      "triggers": [
+        "colour yellow haladi",
+        "colour black kappu",
+        "colour red kempu",
+        "colour blue neeli",
+        "kannada colour",
+        "haladi kappu"
+      ],
+      "learning_objectives": [
+        "Say and write colour names in Kannada (haladi, kempu, neeli, hasi, kappu)",
+        "Match Kannada colour word to correct colour"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "colour and write Kannada word",
+        "match colour to Kannada name"
+      ]
+    },
+    {
+      "id": "KG-KAN-3",
+      "name": "Kannada Fruits Vocabulary (Hannugalu / ಹಣ್ಣುಗಳು)",
+      "month_coverage": "September",
+      "triggers": [
+        "hannugalu",
+        "mavina hannu mango",
+        "sebu apple",
+        "drakshi grapes",
+        "balehannu banana",
+        "kannada fruits"
+      ],
+      "learning_objectives": [
+        "Name common fruits in Kannada (mavinahannu, sebu, drakshi, balehannu)",
+        "Match Kannada fruit name to picture"
+      ],
+      "bloom_level": "Remember",
+      "worksheet_types": [
+        "match fruit to Kannada name",
+        "write the Kannada name"
+      ]
+    }
+  ]
+}

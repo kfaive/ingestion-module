@@ -1,0 +1,323 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 3 / Class 3",
+  "subject": "Mathematics",
+  "academic_year": "2023-24",
+  "reference": "CBSE Class 3 Maths Syllabus 2023-24 (NCERT Maths Magic 3)",
+  "textbooks": [
+    "Maths Magic Book 3 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C3-MATH-1",
+      "name": "Shapes & Spatial Understanding (Geometry)",
+      "month_coverage": "April-May",
+      "triggers": [
+        "shapes spatial understanding",
+        "paper folding cutting",
+        "2-D shapes",
+        "dot grid",
+        "tangram",
+        "tiles",
+        "map reading",
+        "3D objects"
+      ],
+      "learning_objectives": [
+        "Create shapes through paper folding and cutting",
+        "Identify 2-D shapes by sides, corners and diagonals",
+        "Make shapes on dot-grid",
+        "Tiles a region using a given shape",
+        "Read simple maps"
+      ],
+      "bloom_level": "Remember, Understand, Apply",
+      "worksheet_types": [
+        "name the 2D shape",
+        "count sides and corners",
+        "dot grid shape making",
+        "tile the region",
+        "read the map"
+      ],
+      "ncert_reference": "Chapter 1 - Where to Look From"
+    },
+    {
+      "id": "C3-MATH-2",
+      "name": "Number Sequence up to 1000",
+      "month_coverage": "April-June",
+      "triggers": [
+        "3 digit numbers",
+        "numbers upto 1000",
+        "place value hundreds",
+        "expanded form",
+        "compares numbers",
+        "greatest smallest 3 digit",
+        "number sequence upto 1000"
+      ],
+      "learning_objectives": [
+        "Read and write 3-digit numbers",
+        "Expand a number with respect to place values",
+        "Count in different ways from any number",
+        "Compare numbers",
+        "Form greatest and smallest 3-digit numbers"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "place value chart",
+        "expanded form",
+        "compare 3-digit numbers",
+        "greatest and smallest"
+      ],
+      "ncert_reference": "Chapter 2 - Fun with Numbers"
+    },
+    {
+      "id": "C3-MATH-3",
+      "name": "Addition and Subtraction",
+      "month_coverage": "June-August",
+      "triggers": [
+        "addition subtraction class 3",
+        "adds subtracts numbers vertically",
+        "without regrouping with regrouping",
+        "place value addition",
+        "estimates sum difference",
+        "frames problems addition subtraction"
+      ],
+      "learning_objectives": [
+        "Add and subtract numbers with and without regrouping",
+        "Use place value in standard algorithm",
+        "Solve problems from pictures and stories",
+        "Estimate sum and difference"
+      ],
+      "bloom_level": "Apply, Analyze",
+      "worksheet_types": [
+        "column addition with carrying",
+        "column subtraction with borrowing",
+        "word problems",
+        "estimate and calculate"
+      ],
+      "ncert_reference": "Chapter 4 - Long and Short"
+    },
+    {
+      "id": "C3-MATH-4",
+      "name": "Multiplication",
+      "month_coverage": "August-September",
+      "triggers": [
+        "multiplication class 3",
+        "repeated addition",
+        "multiplication tables 2 3 4 5 10",
+        "multiplies two digit",
+        "lattice multiplication",
+        "multiplication facts"
+      ],
+      "learning_objectives": [
+        "Explain multiplication as repeated addition",
+        "Construct multiplication tables of 2, 3, 4, 5 and 10",
+        "Multiply 2-digit numbers using standard and lattice algorithm"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "fill the times table",
+        "repeated addition to multiplication",
+        "2-digit multiplication",
+        "word problems"
+      ],
+      "ncert_reference": "Chapter 6 - Fruits and Fun"
+    },
+    {
+      "id": "C3-MATH-5",
+      "name": "Division",
+      "month_coverage": "September-October",
+      "triggers": [
+        "division class 3",
+        "equal grouping sharing",
+        "relates division with multiplication",
+        "division facts",
+        "completes division facts"
+      ],
+      "learning_objectives": [
+        "Explain division as equal grouping and sharing",
+        "Relate division with multiplication",
+        "Complete division facts"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "short division",
+        "division word problems",
+        "relate × and ÷"
+      ],
+      "ncert_reference": "Chapter 6 - Fruits and Fun"
+    },
+    {
+      "id": "C3-MATH-6",
+      "name": "Properties of Addition",
+      "month_coverage": "July-August",
+      "triggers": [
+        "properties of addition",
+        "commutative property",
+        "associative property",
+        "identity property",
+        "closure property",
+        "addition properties class 3"
+      ],
+      "learning_objectives": [
+        "State and apply commutative property (a+b = b+a)",
+        "State and apply associative property",
+        "Identify identity element (0) for addition"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "fill in commutative property",
+        "associative grouping",
+        "identify the property"
+      ]
+    },
+    {
+      "id": "C3-MATH-7",
+      "name": "Mental Arithmetic",
+      "month_coverage": "Throughout year",
+      "triggers": [
+        "mental arithmetic class 3",
+        "adds subtracts single digit two digit mentally",
+        "doubles two digit",
+        "mental math"
+      ],
+      "learning_objectives": [
+        "Add and subtract single and 2-digit numbers mentally",
+        "Double 2-digit numbers mentally"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "mental math quiz",
+        "quick addition",
+        "doubling numbers"
+      ]
+    },
+    {
+      "id": "C3-MATH-8",
+      "name": "Money",
+      "month_coverage": "October",
+      "triggers": [
+        "money class 3",
+        "converts rupee to paise",
+        "column addition subtraction money",
+        "rate charts bills",
+        "rupees paise play money"
+      ],
+      "learning_objectives": [
+        "Convert Rupees to Paise using play money",
+        "Add and subtract money amounts using column method",
+        "Make rate charts and bills"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "convert rupees to paise",
+        "add money amounts",
+        "make a bill"
+      ],
+      "ncert_reference": "Chapter 7 - Who is Heavier?"
+    },
+    {
+      "id": "C3-MATH-9",
+      "name": "Measurement – Length",
+      "month_coverage": "October-November",
+      "triggers": [
+        "length class 3",
+        "standard unit length",
+        "centimetres metres",
+        "ruler",
+        "estimates length",
+        "measures length cm m"
+      ],
+      "learning_objectives": [
+        "Appreciate need for standard units",
+        "Measure length using cm and m",
+        "Estimate length and verify by measuring",
+        "Relate cm and m"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "measure with ruler",
+        "estimate and measure",
+        "convert cm to m"
+      ],
+      "ncert_reference": "Chapter 4 - Long and Short"
+    },
+    {
+      "id": "C3-MATH-10",
+      "name": "Measurement – Weight, Volume & Time",
+      "month_coverage": "November-December",
+      "triggers": [
+        "weight class 3",
+        "weighs objects non standard",
+        "conservation of weight",
+        "volume capacity",
+        "non-standard units",
+        "time class 3",
+        "reads calendar",
+        "reads time to the hour"
+      ],
+      "learning_objectives": [
+        "Weigh objects using non-standard units",
+        "Measure and compare capacity of containers",
+        "Read a calendar to find a day and date",
+        "Read time to the hour"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "compare weights",
+        "measure capacity",
+        "read the clock",
+        "calendar activity"
+      ]
+    },
+    {
+      "id": "C3-MATH-11",
+      "name": "Data Handling",
+      "month_coverage": "December-January",
+      "triggers": [
+        "data handling class 3",
+        "tally marks",
+        "pictograph",
+        "records data",
+        "collects data",
+        "draws conclusions from data"
+      ],
+      "learning_objectives": [
+        "Record data using tally marks",
+        "Collect data and represent in pictographs with appropriate scale",
+        "Draw conclusions from data"
+      ],
+      "bloom_level": "Apply, Analyze",
+      "worksheet_types": [
+        "tally chart",
+        "draw a pictograph",
+        "read the pictograph and answer"
+      ],
+      "ncert_reference": "Chapter 13 - Smart Charts"
+    },
+    {
+      "id": "C3-MATH-12",
+      "name": "Patterns",
+      "month_coverage": "January-February",
+      "triggers": [
+        "patterns class 3",
+        "symmetrical shapes",
+        "patterns odd even numbers",
+        "partitions a number",
+        "patterns in multiplication by 10",
+        "identifies patterns"
+      ],
+      "learning_objectives": [
+        "Identify simple symmetrical shapes and patterns",
+        "Identify patterns in odd/even numbers",
+        "Partition a number in different ways",
+        "Identify patterns in multiplying/dividing by 10"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "complete the pattern",
+        "symmetry drawing",
+        "odd and even pattern",
+        "partition the number"
+      ]
+    }
+  ]
+}

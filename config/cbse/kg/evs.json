@@ -1,0 +1,130 @@
+{
+  "board": "CBSE",
+  "grade": "KG / LKG / UKG",
+  "subject": "Discovery / EVS (Theme-based)",
+  "academic_year": "2023-24",
+  "reference": "Generic CBSE KG Framework",
+  "textbooks": [
+    "School-specific KG Discovery/EVS workbook"
+  ],
+  "topics": [
+    {
+      "id": "KG-DIS-1",
+      "name": "Amazing Animals – Pet Animals",
+      "month_coverage": "April",
+      "triggers": [
+        "pet animals",
+        "pets",
+        "amazing animals",
+        "cat dog rabbit",
+        "domestic animals",
+        "animals we keep"
+      ],
+      "learning_objectives": [
+        "Name common pet animals",
+        "Describe what pets eat and where they live",
+        "Distinguish pets from wild animals"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "circle the pet animals",
+        "draw your pet",
+        "match animal to food"
+      ]
+    },
+    {
+      "id": "KG-DIS-2",
+      "name": "Amazing Animals – Farm Animals",
+      "month_coverage": "May",
+      "triggers": [
+        "farm animals",
+        "cow hen sheep",
+        "young ones",
+        "things they give us",
+        "old macdonald",
+        "farm animal"
+      ],
+      "learning_objectives": [
+        "Name common farm animals",
+        "Match animals to young ones",
+        "Identify what farm animals give us"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "match animal to young one",
+        "what do they give us?",
+        "circle farm animals"
+      ]
+    },
+    {
+      "id": "KG-DIS-3",
+      "name": "Colours Around Us",
+      "month_coverage": "June",
+      "triggers": [
+        "colours around us",
+        "colour yellow",
+        "colour black",
+        "colour red",
+        "colour blue",
+        "colour green",
+        "discussion on colours"
+      ],
+      "learning_objectives": [
+        "Identify and name primary and secondary colours",
+        "Associate colours with common objects"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "colour the objects",
+        "match colour to object",
+        "circle things that are yellow/red/blue"
+      ]
+    },
+    {
+      "id": "KG-DIS-4",
+      "name": "Fruits",
+      "month_coverage": "July",
+      "triggers": [
+        "fruits",
+        "phal",
+        "hannugalu",
+        "mango apple banana grapes",
+        "introduction to fruits",
+        "types of fruits"
+      ],
+      "learning_objectives": [
+        "Name common fruits in English and Hindi/Kannada",
+        "Describe colour, taste and shape of fruits"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "name the fruit",
+        "colour the fruit",
+        "match fruit to colour"
+      ]
+    },
+    {
+      "id": "KG-DIS-5",
+      "name": "My Body / Sense Organs",
+      "month_coverage": "August-September",
+      "triggers": [
+        "my body",
+        "body parts",
+        "sense organs",
+        "eyes ears nose mouth",
+        "five senses",
+        "touch taste smell hear see"
+      ],
+      "learning_objectives": [
+        "Name major body parts",
+        "Identify five sense organs and their functions"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "label the body",
+        "match sense organ to use",
+        "circle the body part"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 4 / Class 4",
+  "subject": "English Language Arts",
+  "academic_year": "2023-24",
+  "reference": "NCERT English Class 4 - Marigold 4 + Grammar",
+  "textbooks": [
+    "Marigold 4 (NCERT)",
+    "Raindrops 4 (NCERT)"
+  ],
+  "topics": [
+    {
+      "id": "C4-ENG-1",
+      "name": "Comprehension – Longer Passages",
+      "month_coverage": "April-May",
+      "triggers": [
+        "comprehension class 4",
+        "read and answer class 4",
+        "longer passage",
+        "comprehension passage grade 4"
+      ],
+      "learning_objectives": [
+        "Read and understand longer passages (200-300 words)",
+        "Identify main idea and supporting details",
+        "Infer meanings of unfamiliar words from context",
+        "Answer factual and inferential questions"
+      ],
+      "bloom_level": "Understand, Analyze",
+      "worksheet_types": [
+        "read and answer",
+        "true or false",
+        "find the main idea",
+        "vocabulary in context"
+      ]
+    },
+    {
+      "id": "C4-ENG-2",
+      "name": "Tenses – Simple, Continuous, Perfect",
+      "month_coverage": "May-June",
+      "triggers": [
+        "tenses class 4",
+        "simple present",
+        "simple past",
+        "simple future",
+        "present continuous",
+        "past perfect",
+        "tense class 4"
+      ],
+      "learning_objectives": [
+        "Use simple present, past and future tenses",
+        "Use present and past continuous tenses",
+        "Identify tense in sentences",
+        "Convert sentences from one tense to another"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "change the tense",
+        "fill in correct tense",
+        "identify the tense",
+        "rewrite in given tense"
+      ]
+    },
+    {
+      "id": "C4-ENG-3",
+      "name": "Nouns – Types and Plurals",
+      "month_coverage": "June-July",
+      "triggers": [
+        "nouns class 4",
+        "common noun",
+        "proper noun",
+        "collective noun",
+        "abstract noun",
+        "countable uncountable",
+        "plural nouns irregular"
+      ],
+      "learning_objectives": [
+        "Identify common, proper, collective and abstract nouns",
+        "Form plurals including irregular forms (ox→oxen, child→children)",
+        "Use countable and uncountable nouns correctly"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "classify the noun",
+        "write plural forms",
+        "countable or uncountable",
+        "fill in the blank with correct noun"
+      ]
+    },
+    {
+      "id": "C4-ENG-4",
+      "name": "Adjectives and Degrees of Comparison",
+      "month_coverage": "July-August",
+      "triggers": [
+        "adjectives class 4",
+        "degrees of comparison",
+        "comparative superlative",
+        "positive comparative superlative class 4"
+      ],
+      "learning_objectives": [
+        "Identify adjectives in sentences",
+        "Form comparative and superlative degrees",
+        "Use degrees of comparison in sentences",
+        "Distinguish regular and irregular comparatives (good, better, best)"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "fill in comparative superlative",
+        "describe using adjectives",
+        "positive comparative superlative table"
+      ]
+    },
+    {
+      "id": "C4-ENG-5",
+      "name": "Adverbs",
+      "month_coverage": "August-September",
+      "triggers": [
+        "adverbs class 4",
+        "adverb of manner place time",
+        "quickly slowly",
+        "adverbs grade 4"
+      ],
+      "learning_objectives": [
+        "Identify adverbs of manner, place and time",
+        "Form adverbs from adjectives (slow→slowly)",
+        "Use adverbs in sentences"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "identify the adverb",
+        "form adverb from adjective",
+        "fill in the adverb"
+      ]
+    },
+    {
+      "id": "C4-ENG-6",
+      "name": "Punctuation and Sentence Types",
+      "month_coverage": "September-October",
+      "triggers": [
+        "punctuation class 4",
+        "types of sentences class 4",
+        "declarative interrogative exclamatory imperative",
+        "comma apostrophe class 4"
+      ],
+      "learning_objectives": [
+        "Identify and write four types of sentences",
+        "Use commas, apostrophes and quotation marks correctly",
+        "Punctuate given paragraphs"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "add correct punctuation",
+        "identify sentence type",
+        "rewrite with correct punctuation"
+      ]
+    },
+    {
+      "id": "C4-ENG-7",
+      "name": "Composition – Paragraph and Letter Writing",
+      "month_coverage": "October-February",
+      "triggers": [
+        "paragraph writing class 4",
+        "letter writing class 4",
+        "informal letter class 4",
+        "composition class 4"
+      ],
+      "learning_objectives": [
+        "Write well-structured paragraphs with a topic sentence",
+        "Write informal letters with correct format",
+        "Use connecting words (however, therefore, because)"
+      ],
+      "bloom_level": "Apply, Create",
+      "worksheet_types": [
+        "write a paragraph",
+        "write an informal letter",
+        "expand the outline"
+      ]
+    }
+  ]
+}

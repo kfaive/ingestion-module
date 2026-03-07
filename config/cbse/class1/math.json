@@ -1,0 +1,424 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 1 / Class 1",
+  "subject": "Mathematics",
+  "academic_year": "2023-24",
+  "reference": "CBSE Class 1 Maths Syllabus 2023-24 | DPS Ruby Park Kolkata Class 1 Math Session 2023-24",
+  "textbooks": [
+    "Math-Magic Book 1 (NCERT)",
+    "Junior Maths-1 (Bharati Bhawan)",
+    "Mental Maths-1 (Frank)"
+  ],
+  "topics": [
+    {
+      "id": "C1-MATH-1",
+      "name": "Shapes & Spatial Understanding",
+      "month_coverage": "April-May",
+      "triggers": [
+        "shapes spatial",
+        "top bottom on under",
+        "inside outside",
+        "above below near far",
+        "solids around us",
+        "sphere cube cylinder cone",
+        "rolling sliding",
+        "2d shapes 3d shapes"
+      ],
+      "learning_objectives": [
+        "Use spatial language: top, bottom, inside, outside, above, below",
+        "Identify and sort 2D and 3D shapes",
+        "Describe how shapes move (roll, slide)"
+      ],
+      "bloom_level": "Remember, Understand",
+      "worksheet_types": [
+        "position words fill-in",
+        "circle the shape",
+        "which shape rolls?",
+        "draw inside/outside"
+      ],
+      "ncert_reference": "Geometry (10 hrs) – Shapes & Spatial Understanding"
+    },
+    {
+      "id": "C1-MATH-2",
+      "name": "Numbers 1–9 and Zero",
+      "month_coverage": "April-May",
+      "triggers": [
+        "numbers 1 to 9",
+        "counting 1 to 9",
+        "zero",
+        "number sense",
+        "adds subtracts real objects",
+        "one to one correspondence",
+        "reads writes numerals 1 to 9"
+      ],
+      "learning_objectives": [
+        "Count, read and write numbers 1 to 9",
+        "Match number to quantity",
+        "Add and subtract using objects and pictures",
+        "Approach zero through subtraction pattern"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "count and write",
+        "trace numbers",
+        "match to quantity",
+        "add with pictures"
+      ],
+      "ncert_reference": "Numbers (46 hrs) – Numberness 1–9 and Zero"
+    },
+    {
+      "id": "C1-MATH-3",
+      "name": "Numbers 10–20",
+      "month_coverage": "June",
+      "triggers": [
+        "numbers 10 to 20",
+        "eleven twelve thirteen",
+        "fourteen fifteen sixteen",
+        "seventeen eighteen nineteen",
+        "tens and ones",
+        "group of ten",
+        "forms number sequence 10 to 20"
+      ],
+      "learning_objectives": [
+        "Count and write numbers 10 to 20",
+        "Group objects into tens and ones",
+        "Write number names eleven to twenty"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "tens and ones chart",
+        "group into 10s",
+        "write the number",
+        "number names 11-20"
+      ],
+      "ncert_reference": "Numbers (46 hrs) – Numbers 10–20"
+    },
+    {
+      "id": "C1-MATH-4",
+      "name": "Numbers 21–99 (Tens and Ones)",
+      "month_coverage": "June-July",
+      "triggers": [
+        "numbers 21 to 99",
+        "two digit numbers",
+        "tens and ones 2 digit",
+        "twenty to ninety nine",
+        "odd and even numbers",
+        "ascending descending order"
+      ],
+      "learning_objectives": [
+        "Read and write numbers 21 to 99",
+        "Identify tens and ones in a 2-digit number",
+        "Arrange in ascending and descending order",
+        "Identify odd and even numbers 1–100"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "place value chart",
+        "draw tens and ones",
+        "ascending/descending order",
+        "odd even sorting"
+      ],
+      "ncert_reference": "Numbers (46 hrs) – Numbers 21–99"
+    },
+    {
+      "id": "C1-MATH-5",
+      "name": "Addition",
+      "month_coverage": "June-September",
+      "triggers": [
+        "addition",
+        "adding",
+        "add",
+        "plus",
+        "sum",
+        "total",
+        "+",
+        "addition facts",
+        "adding doubles",
+        "addition without carry over",
+        "addition with carryover"
+      ],
+      "learning_objectives": [
+        "Add two single-digit numbers using objects",
+        "Use the '+' symbol correctly",
+        "Add doubles",
+        "Solve addition word problems"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "add the objects",
+        "write the sum",
+        "word problems – addition",
+        "addition facts",
+        "adding doubles"
+      ],
+      "ncert_reference": "Numbers (46 hrs) – Addition and Subtraction upto 20"
+    },
+    {
+      "id": "C1-MATH-6",
+      "name": "Subtraction",
+      "month_coverage": "August-November",
+      "triggers": [
+        "subtraction",
+        "subtract",
+        "minus",
+        "take away",
+        "difference",
+        "-",
+        "how many left",
+        "subtraction without borrowing",
+        "subtraction with borrowing"
+      ],
+      "learning_objectives": [
+        "Subtract single-digit and 2-digit numbers",
+        "Use the '-' symbol correctly",
+        "Understand subtraction leading to zero"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "cross out and write",
+        "subtraction word problems",
+        "how many are left?",
+        "column subtraction"
+      ],
+      "ncert_reference": "Numbers (46 hrs) – Addition and Subtraction"
+    },
+    {
+      "id": "C1-MATH-7",
+      "name": "Numbers 101–500 (Extension)",
+      "month_coverage": "August-December",
+      "triggers": [
+        "numbers 101 to 300",
+        "numbers 300 to 500",
+        "3 digit numbers",
+        "hundreds",
+        "number names 101-300",
+        "number names 300-500"
+      ],
+      "learning_objectives": [
+        "Count, read and write numbers 101 to 500",
+        "Understand hundreds, tens, ones",
+        "Order and compare 3-digit numbers"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "place value 3-digit",
+        "number names 101-500",
+        "ascending descending 3-digit"
+      ],
+      "ncert_reference": "DPS Ruby Park – Numbers 101-300, 300-500"
+    },
+    {
+      "id": "C1-MATH-8",
+      "name": "Skip Counting",
+      "month_coverage": "September",
+      "triggers": [
+        "skip counting",
+        "skip counting in 2s 5s 10s",
+        "count by 2",
+        "count by 5",
+        "count by 10"
+      ],
+      "learning_objectives": [
+        "Skip count in 2s, 5s and 10s",
+        "Use skip counting in real contexts"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "fill skip counting sequence",
+        "skip counting on number line"
+      ],
+      "ncert_reference": "DPS Ruby Park – Skip Counting"
+    },
+    {
+      "id": "C1-MATH-9",
+      "name": "Measurement – Length, Weight, Volume",
+      "month_coverage": "January",
+      "triggers": [
+        "length longer shorter taller",
+        "near far thin thick",
+        "measuring length",
+        "heavy light",
+        "weight",
+        "comparison of objects size",
+        "volume measurement"
+      ],
+      "learning_objectives": [
+        "Compare lengths: longer, shorter, taller",
+        "Compare objects as heavy or light",
+        "Compare capacities of containers"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "circle longer/shorter",
+        "order by length",
+        "heavy or light?",
+        "compare containers"
+      ],
+      "ncert_reference": "Measurement (13 hrs)"
+    },
+    {
+      "id": "C1-MATH-10",
+      "name": "Time and Calendar",
+      "month_coverage": "October",
+      "triggers": [
+        "time clock",
+        "calendar",
+        "days of week",
+        "months of year",
+        "read time to hour",
+        "earlier later",
+        "morning afternoon evening"
+      ],
+      "learning_objectives": [
+        "Read and show time to the correct hour",
+        "Name days of the week",
+        "Name months of the year"
+      ],
+      "bloom_level": "Apply",
+      "worksheet_types": [
+        "draw clock hands",
+        "write the time",
+        "order days of week",
+        "months of year"
+      ],
+      "ncert_reference": "Measurement (13 hrs) – Time; DPS Ruby Park Time and Calendar"
+    },
+    {
+      "id": "C1-MATH-11",
+      "name": "Money",
+      "month_coverage": "February",
+      "triggers": [
+        "money",
+        "coins",
+        "notes",
+        "currency",
+        "rupees",
+        "identify coins",
+        "indian currency"
+      ],
+      "learning_objectives": [
+        "Identify common Indian coins and notes",
+        "Combine small amounts of money"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "name the coin",
+        "how much money?",
+        "match to value"
+      ],
+      "ncert_reference": "Money (3 hrs)"
+    },
+    {
+      "id": "C1-MATH-12",
+      "name": "Patterns",
+      "month_coverage": "November",
+      "triggers": [
+        "pattern",
+        "repeating pattern",
+        "ab pattern",
+        "shape pattern",
+        "colour pattern",
+        "patterns and logical reasoning"
+      ],
+      "learning_objectives": [
+        "Identify and extend simple repeating patterns",
+        "Create patterns using stamping and drawing"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "complete the pattern",
+        "draw what comes next",
+        "create your own pattern"
+      ],
+      "ncert_reference": "Patterns (10 hrs)"
+    },
+    {
+      "id": "C1-MATH-13",
+      "name": "Data Handling",
+      "month_coverage": "February",
+      "triggers": [
+        "data",
+        "collect data",
+        "tally",
+        "pictograph",
+        "picture graphs",
+        "data handling",
+        "record data"
+      ],
+      "learning_objectives": [
+        "Collect simple data",
+        "Represent data using pictures or tally marks",
+        "Answer questions from a simple data set"
+      ],
+      "bloom_level": "Apply, Analyze",
+      "worksheet_types": [
+        "tally chart",
+        "read the pictograph",
+        "collect and record data"
+      ],
+      "ncert_reference": "Data Handling (6 hrs)"
+    },
+    {
+      "id": "C1-MATH-14",
+      "name": "Multiplication (Introduction)",
+      "month_coverage": "February",
+      "triggers": [
+        "multiplication repeated addition",
+        "grouping of objects",
+        "groups of 2 5 and 10",
+        "multiplication introduced"
+      ],
+      "learning_objectives": [
+        "Understand multiplication as repeated addition",
+        "Group objects in groups of 2, 5 and 10"
+      ],
+      "bloom_level": "Understand",
+      "worksheet_types": [
+        "draw groups of objects",
+        "write as repeated addition"
+      ],
+      "ncert_reference": "DPS Ruby Park – Multiplication as repeated addition"
+    },
+    {
+      "id": "C1-MATH-15",
+      "name": "Division (Introduction)",
+      "month_coverage": "March",
+      "triggers": [
+        "division equal distribution",
+        "equal grouping",
+        "division through stories",
+        "sharing equally"
+      ],
+      "learning_objectives": [
+        "Understand division as equal sharing and grouping"
+      ],
+      "bloom_level": "Understand",
+      "worksheet_types": [
+        "share equally activity",
+        "draw equal groups"
+      ],
+      "ncert_reference": "DPS Ruby Park – Division as equal grouping"
+    },
+    {
+      "id": "C1-MATH-16",
+      "name": "Ordinal Numbers",
+      "month_coverage": "September",
+      "triggers": [
+        "ordinal numbers",
+        "first second third",
+        "1st 2nd 3rd",
+        "ordinal numbers 1-10"
+      ],
+      "learning_objectives": [
+        "Use ordinal numbers: first to tenth",
+        "Identify position using ordinal numbers"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "write ordinal numbers",
+        "who is first?"
+      ],
+      "ncert_reference": "DPS Ruby Park – Ordinal Numbers"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "board": "CBSE",
+  "grade": "KG / LKG / UKG",
+  "subject": "Literacy / English",
+  "academic_year": "2023-24",
+  "reference": "Generic CBSE KG Framework / Kidzee / Deens",
+  "textbooks": [
+    "School-specific KG English workbook"
+  ],
+  "topics": [
+    {
+      "id": "KG-LIT-1",
+      "name": "Alphabet Recognition & Writing",
+      "month_coverage": "April-May",
+      "triggers": [
+        "alphabet",
+        "letter recognition",
+        "tracing lowercase",
+        "tracing uppercase",
+        "abc",
+        "writing letter",
+        "letter bb",
+        "letter gg",
+        "letter aa"
+      ],
+      "learning_objectives": [
+        "Recognize and name uppercase and lowercase letters",
+        "Trace and write letters correctly",
+        "Associate letters with their sounds"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "trace the letter",
+        "circle the letter",
+        "match upper to lower",
+        "write the missing letter"
+      ]
+    },
+    {
+      "id": "KG-LIT-2",
+      "name": "Phonics – Letter Sounds",
+      "month_coverage": "May-June",
+      "triggers": [
+        "phonics",
+        "letter sound",
+        "identifying sounds",
+        "short vowel",
+        "long vowel",
+        "beginning sound",
+        "'a' sound",
+        "'e' sound",
+        "'i' sound"
+      ],
+      "learning_objectives": [
+        "Identify beginning sound of a word",
+        "Match letters to phonics sounds",
+        "Distinguish vowel and consonant sounds"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "circle word that starts with",
+        "match sound to picture",
+        "say and write the sound"
+      ]
+    },
+    {
+      "id": "KG-LIT-3",
+      "name": "CVC Word Families",
+      "month_coverage": "June-August",
+      "triggers": [
+        "word family",
+        "op family",
+        "at family",
+        "an family",
+        "cvc",
+        "three letter words",
+        "top mop cop",
+        "dog log fog",
+        "hot pot dot"
+      ],
+      "learning_objectives": [
+        "Read and write CVC words",
+        "Identify word families (-op,-at,-an,-in)",
+        "Blend sounds to form 3-letter words"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "complete the word family",
+        "read and match",
+        "fill in missing letter"
+      ]
+    },
+    {
+      "id": "KG-LIT-4",
+      "name": "Sight Words",
+      "month_coverage": "August-October",
+      "triggers": [
+        "sight words",
+        "high frequency words",
+        "i a my to like",
+        "i see the",
+        "dolch words",
+        "reading list"
+      ],
+      "learning_objectives": [
+        "Read common sight words by sight (I, a, my, to, like, see, the)",
+        "Use sight words in simple sentences"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "read and circle the sight word",
+        "trace the sight word",
+        "find word in sentence"
+      ]
+    },
+    {
+      "id": "KG-LIT-5",
+      "name": "Central Vowel Sounds – 'a' and 'e'",
+      "month_coverage": "October-November",
+      "triggers": [
+        "central sound",
+        "'a' central sound",
+        "'e' central sound",
+        "short a",
+        "short e",
+        "cat bat rat",
+        "hen ten pen",
+        "recap of a and e"
+      ],
+      "learning_objectives": [
+        "Identify central vowel 'a' in words (cat,bat,mat)",
+        "Identify central vowel 'e' in words (hen,ten,pen)",
+        "Sort words by central vowel sound"
+      ],
+      "bloom_level": "Understand, Apply",
+      "worksheet_types": [
+        "colour pictures with 'a' sound",
+        "sort words by sound",
+        "fill in the vowel"
+      ]
+    }
+  ]
+}

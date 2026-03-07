@@ -1,0 +1,296 @@
+{
+  "board": "CBSE",
+  "grade": "Grade 1 / Class 1",
+  "subject": "Hindi",
+  "academic_year": "2023-24",
+  "reference": "CBSE Class 1 Hindi Syllabus 2023-24 (Rimjhim 1) | DPS Ruby Park Hindi 2nd Language 2023-24",
+  "textbooks": [
+    "Rimjhim Bhag 1 (NCERT)",
+    "Sunheri Dhoop-1 (Rachna Sagar)",
+    "Vaani Hindi Pathmala (OUP)"
+  ],
+  "topics": [
+    {
+      "id": "C1-HIN-1",
+      "name": "Hindi Vowels (Swar) – अ to औ",
+      "month_coverage": "April",
+      "triggers": [
+        "swar",
+        "hindi vowels",
+        "a aa i ee u oo",
+        "अ आ इ ई",
+        "anaar aam",
+        "a se anaar",
+        "स्वर (अ-औ)"
+      ],
+      "learning_objectives": [
+        "Recognize and write all Hindi vowels (अ to औ)",
+        "Associate each vowel with a word"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "trace the vowel",
+        "match vowel to picture",
+        "circle the vowel"
+      ]
+    },
+    {
+      "id": "C1-HIN-2",
+      "name": "Hindi Consonants (Vyanjan) – क to ड",
+      "month_coverage": "May",
+      "triggers": [
+        "vyanjan",
+        "hindi consonants ka kha ga",
+        "क ख ग",
+        "व्यंजन (क-ड)",
+        "consonants ka se da"
+      ],
+      "learning_objectives": [
+        "Recognize and write Hindi consonants क to ड",
+        "Form simple 2-letter Hindi words"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "trace the consonant",
+        "match consonant to picture",
+        "write the consonant"
+      ]
+    },
+    {
+      "id": "C1-HIN-3",
+      "name": "Hindi Consonants (Vyanjan) – च to ण",
+      "month_coverage": "June",
+      "triggers": [
+        "vyanjan ch to n",
+        "व्यंजन (च-ण)",
+        "cha chha ja jha",
+        "hindi consonants ch"
+      ],
+      "learning_objectives": [
+        "Recognize and write Hindi consonants च to ण",
+        "Form words using these consonants"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "trace the consonant",
+        "word formation"
+      ]
+    },
+    {
+      "id": "C1-HIN-4",
+      "name": "Hindi Consonants (Vyanjan) – त to ह",
+      "month_coverage": "July",
+      "triggers": [
+        "vyanjan ta to ha",
+        "व्यंजन (त-ह)",
+        "ta tha da dha",
+        "hindi consonants ta"
+      ],
+      "learning_objectives": [
+        "Recognize and write Hindi consonants त to ह",
+        "Form simple words"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "trace the consonant",
+        "word formation",
+        "match to picture"
+      ]
+    },
+    {
+      "id": "C1-HIN-5",
+      "name": "Additional Consonants (2,3,4 letter words)",
+      "month_coverage": "August",
+      "triggers": [
+        "atirikt vyanjan",
+        "additional consonants",
+        "do teen char varnwale",
+        "अतिरिक्त व्यंजन",
+        "two three four letter consonants"
+      ],
+      "learning_objectives": [
+        "Recognize additional/compound consonants",
+        "Form 2–4 letter words"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "identify consonant cluster",
+        "form words",
+        "word matching"
+      ]
+    },
+    {
+      "id": "C1-HIN-6",
+      "name": "Barahkhadi (Baarakhari) & आ / इ Maatra",
+      "month_coverage": "September",
+      "triggers": [
+        "barahkhadi",
+        "baarakhari",
+        "aa matra",
+        "i matra",
+        "आ की मात्रा",
+        "इ की मात्रा",
+        "matra aa tatha i",
+        "शब्द भंडार"
+      ],
+      "learning_objectives": [
+        "Apply 'aa' (ा) and 'i' (ि) matras to consonants",
+        "Read and write words with these matras"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "add the matra",
+        "read the word",
+        "write with aa matra",
+        "fill in matra"
+      ]
+    },
+    {
+      "id": "C1-HIN-7",
+      "name": "ई (ी) Matra",
+      "month_coverage": "October",
+      "triggers": [
+        "ee matra",
+        "ई की मात्रा",
+        "i ki matra badi",
+        "ी matra words"
+      ],
+      "learning_objectives": [
+        "Apply long 'ee' (ी) matra",
+        "Read and write words with ई matra"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "add ी matra",
+        "write ee-matra words",
+        "match"
+      ]
+    },
+    {
+      "id": "C1-HIN-8",
+      "name": "उ / ऊ Matra & Ginati 1–10",
+      "month_coverage": "November",
+      "triggers": [
+        "u matra",
+        "oo matra",
+        "उ की मात्रा",
+        "ऊ की मात्रा",
+        "ginati",
+        "गिनती (१-१०)",
+        "hindi numbers 1 to 10"
+      ],
+      "learning_objectives": [
+        "Apply 'u' (ु) and 'oo' (ू) matras",
+        "Count and write Hindi numbers 1–10"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "u/oo matra words",
+        "Hindi number tracing",
+        "match numeral to Hindi name"
+      ]
+    },
+    {
+      "id": "C1-HIN-9",
+      "name": "ए / ऐ Matra",
+      "month_coverage": "December",
+      "triggers": [
+        "e matra",
+        "ai matra",
+        "ए की मात्रा",
+        "ऐ की मात्रा",
+        "e tatha ai matra"
+      ],
+      "learning_objectives": [
+        "Apply 'e' (े) and 'ai' (ै) matras",
+        "Read and write words with these matras"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "add the matra",
+        "read the word",
+        "fill in matra"
+      ]
+    },
+    {
+      "id": "C1-HIN-10",
+      "name": "ओ / औ Matra & Vocabulary",
+      "month_coverage": "January",
+      "triggers": [
+        "o matra",
+        "au matra",
+        "ओ की मात्रा",
+        "औ की मात्रा",
+        "o tatha au matra",
+        "रंगों के नाम"
+      ],
+      "learning_objectives": [
+        "Apply 'o' (ो) and 'au' (ौ) matras",
+        "Name colours in Hindi"
+      ],
+      "bloom_level": "Remember, Apply",
+      "worksheet_types": [
+        "o/au matra words",
+        "colour names in Hindi",
+        "matra fill-in"
+      ]
+    },
+    {
+      "id": "C1-HIN-11",
+      "name": "Rimjhim Chapters – Term 1",
+      "month_coverage": "April-September",
+      "triggers": [
+        "school ka pehla din",
+        "aam ki kahani",
+        "patton hi patte",
+        "pakaudi",
+        "rasoighar",
+        "chuho myaun so rahi hai",
+        "bandar aur gilahri",
+        "patang",
+        "gend balla"
+      ],
+      "learning_objectives": [
+        "Read and understand Rimjhim Ch 1–9",
+        "Answer comprehension questions",
+        "Learn new vocabulary from chapters"
+      ],
+      "bloom_level": "Understand, Analyze",
+      "worksheet_types": [
+        "comprehension questions",
+        "match word to meaning",
+        "fill in the blank from chapter"
+      ],
+      "ncert_reference": "Rimjhim 1: पाठ 1–9"
+    },
+    {
+      "id": "C1-HIN-12",
+      "name": "Rimjhim Chapters – Term 2 & 3",
+      "month_coverage": "October-March",
+      "triggers": [
+        "bandar gaya khet mein bhag",
+        "ek budhiya",
+        "main bhi",
+        "lalu aur peelu",
+        "chakai ke chakdum",
+        "chhoti ka kamal",
+        "char chane",
+        "bhagdad",
+        "haleem chala chand par",
+        "haathi challam challam"
+      ],
+      "learning_objectives": [
+        "Read and understand Rimjhim Ch 10–19",
+        "Discuss stories and answer questions",
+        "Build vocabulary"
+      ],
+      "bloom_level": "Understand, Analyze",
+      "worksheet_types": [
+        "story comprehension",
+        "fill in the blank",
+        "character description"
+      ],
+      "ncert_reference": "Rimjhim 1: पाठ 10–19"
+    }
+  ]
+}
